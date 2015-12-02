@@ -52,7 +52,7 @@ function downloadPlayerTimeInfo(players, url) {
         freeThrowMadeIndex: json.resultSets[0].headers.indexOf('FTM'),
         fieldGoalMadeIndex: json.resultSets[0].headers.indexOf('FGA'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '个人罚球命中数/投篮出手数',
         isPercent: true,
         sortType: 1              // 按数目倒序
       }), '球员造罚球');
@@ -104,7 +104,7 @@ function downloadPlayerDeep1(players, url) {
         allData: shouldIncludePlayers,
         dataIndex: json.resultSets[0].headers.indexOf('TS_PCT'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '加成了三分和罚球的命中率，代表球员把握进攻机会的能力',
         isPercent: true,
         sortType: 1              // 按数目倒序
       }), '球员真实命中率');
@@ -113,7 +113,7 @@ function downloadPlayerDeep1(players, url) {
         allData: shouldIncludePlayers,
         dataIndex: json.resultSets[0].headers.indexOf('USG_PCT'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '在场时以投篮、罚球或失误结束进攻回合的比重，代表球员制造进攻机会的能力',
         isPercent: true,
         sortType: 1              // 按数目倒序
       }), '球员回合占有率');
@@ -123,7 +123,7 @@ function downloadPlayerDeep1(players, url) {
         allData: shouldIncludePlayers,
         dataIndex: json.resultSets[0].headers.indexOf('OREB_PCT'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '在场时己方投失球转化为个人篮板的比重',
         isPercent: true,
         sortType: 1              // 按数目倒序
       }), '球员前板率');
@@ -132,7 +132,7 @@ function downloadPlayerDeep1(players, url) {
         allData: shouldIncludePlayers,
         dataIndex: json.resultSets[0].headers.indexOf('DREB_PCT'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '在场时对方投失球转化为个人篮板的比重',
         isPercent: true,
         sortType: 1              // 按数目倒序
       }), '球员后板率');
@@ -167,7 +167,7 @@ function downloadPlayerDeep2(players, url) {
         allData: shouldIncludePlayers,
         dataIndex: json.resultSets[0].headers.indexOf('AST'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '在场时以个人助攻结束的回合比重',
         isPercent: false,
         sortType: 1              // 按数目倒序
       }), '球员助攻率');
@@ -176,7 +176,7 @@ function downloadPlayerDeep2(players, url) {
         allData: shouldIncludePlayers,
         dataIndex: json.resultSets[0].headers.indexOf('TOV'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '在场时以个人失误结束的回合比重',
         isPercent: false,
         sortType: 2              // 按数目倒序
       }), '球员失误率');
@@ -185,7 +185,7 @@ function downloadPlayerDeep2(players, url) {
         allData: shouldIncludePlayers,
         dataIndex: json.resultSets[0].headers.indexOf('STL'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '在场时以个人抢断结束的回合比重',
         isPercent: false,
         sortType: 1              // 按数目倒序
       }), '球员抢断率');
@@ -194,7 +194,7 @@ function downloadPlayerDeep2(players, url) {
         allData: shouldIncludePlayers,
         dataIndex: json.resultSets[0].headers.indexOf('BLK'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '在场时以个人盖帽结束的回合比重',
         isPercent: false,
         sortType: 1              // 按数目倒序
       }), '球员盖帽率');
@@ -222,11 +222,11 @@ function downloadPlayerTime(AllTeams, url) {
       for (var i = 0; i < rowSet.length; i ++) {
 
         All_Players['' + rowSet[i][playerIndex]] = {
-          player: {
+          player: Configs.GetPlayer(rowSet[i][playerIndex] + '', {
             id: rowSet[i][playerIndex] + '',
             name: rowSet[i][playerNameIndex],
             pos: 0
-          },
+          }), 
           
           team: {
             id: rowSet[i][teamIndex] + '',

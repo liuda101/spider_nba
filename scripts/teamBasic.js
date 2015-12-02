@@ -103,7 +103,7 @@ function downloadInfo(url) {
         freeThrowMadeIndex: json.resultSets[0].headers.indexOf('FTM'),
         fieldGoalMadeIndex: json.resultSets[0].headers.indexOf('FGA'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '进攻四要素之一，己方罚球命中数/投篮出手数',
         isPercent: true,
         sortType: 1              // 按数目倒序
       }), '球队造罚球');

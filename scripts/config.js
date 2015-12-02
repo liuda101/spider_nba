@@ -38,8 +38,8 @@ var _PlayerCHName = {
     "708": {
         "player": {
             "id": "708",
-            "name": "Kevin Garnett",
-            "pos": 0
+            "name": "加内特",
+            "pos": 4
         },
         "team": {
             "id": "1610612750",
@@ -49,8 +49,8 @@ var _PlayerCHName = {
     "977": {
         "player": {
             "id": "977",
-            "name": "Kobe Bryant",
-            "pos": 0
+            "name": "科比",
+            "pos": 3
         },
         "team": {
             "id": "1610612747",
@@ -60,8 +60,8 @@ var _PlayerCHName = {
     "1495": {
         "player": {
             "id": "1495",
-            "name": "Tim Duncan",
-            "pos": 0
+            "name": "邓肯",
+            "pos": 5
         },
         "team": {
             "id": "1610612759",
@@ -71,8 +71,8 @@ var _PlayerCHName = {
     "1713": {
         "player": {
             "id": "1713",
-            "name": "Vince Carter",
-            "pos": 0
+            "name": "卡特",
+            "pos": 2
         },
         "team": {
             "id": "1610612763",
@@ -82,8 +82,8 @@ var _PlayerCHName = {
     "1717": {
         "player": {
             "id": "1717",
-            "name": "Dirk Nowitzki",
-            "pos": 0
+            "name": "诺维茨基",
+            "pos": 4
         },
         "team": {
             "id": "1610612742",
@@ -93,8 +93,8 @@ var _PlayerCHName = {
     "1718": {
         "player": {
             "id": "1718",
-            "name": "Paul Pierce",
-            "pos": 0
+            "name": "皮尔斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612746",
@@ -104,8 +104,8 @@ var _PlayerCHName = {
     "1889": {
         "player": {
             "id": "1889",
-            "name": "Andre Miller",
-            "pos": 0
+            "name": "米勒",
+            "pos": 1
         },
         "team": {
             "id": "1610612750",
@@ -115,8 +115,8 @@ var _PlayerCHName = {
     "1891": {
         "player": {
             "id": "1891",
-            "name": "Jason Terry",
-            "pos": 0
+            "name": "特里",
+            "pos": 2
         },
         "team": {
             "id": "1610612745",
@@ -126,8 +126,8 @@ var _PlayerCHName = {
     "1897": {
         "player": {
             "id": "1897",
-            "name": "Metta World Peace",
-            "pos": 0
+            "name": "慈世平",
+            "pos": 3
         },
         "team": {
             "id": "1610612747",
@@ -137,8 +137,8 @@ var _PlayerCHName = {
     "1938": {
         "player": {
             "id": "1938",
-            "name": "Manu Ginobili",
-            "pos": 0
+            "name": "吉诺比利",
+            "pos": 2
         },
         "team": {
             "id": "1610612759",
@@ -148,8 +148,8 @@ var _PlayerCHName = {
     "2034": {
         "player": {
             "id": "2034",
-            "name": "Mike Miller",
-            "pos": 0
+            "name": "米勒",
+            "pos": 3
         },
         "team": {
             "id": "1610612743",
@@ -159,8 +159,8 @@ var _PlayerCHName = {
     "2037": {
         "player": {
             "id": "2037",
-            "name": "Jamal Crawford",
-            "pos": 0
+            "name": "克劳福德",
+            "pos": 2
         },
         "team": {
             "id": "1610612746",
@@ -170,8 +170,8 @@ var _PlayerCHName = {
     "2199": {
         "player": {
             "id": "2199",
-            "name": "Tyson Chandler",
-            "pos": 0
+            "name": "钱德勒",
+            "pos": 5
         },
         "team": {
             "id": "1610612756",
@@ -181,8 +181,8 @@ var _PlayerCHName = {
     "2200": {
         "player": {
             "id": "2200",
-            "name": "Pau Gasol",
-            "pos": 0
+            "name": "加索尔",
+            "pos": 5
         },
         "team": {
             "id": "1610612741",
@@ -192,8 +192,8 @@ var _PlayerCHName = {
     "2207": {
         "player": {
             "id": "2207",
-            "name": "Joe Johnson",
-            "pos": 0
+            "name": "约翰逊",
+            "pos": 3
         },
         "team": {
             "id": "1610612751",
@@ -203,8 +203,8 @@ var _PlayerCHName = {
     "2210": {
         "player": {
             "id": "2210",
-            "name": "Richard Jefferson",
-            "pos": 0
+            "name": "杰弗森",
+            "pos": 3
         },
         "team": {
             "id": "1610612739",
@@ -214,8 +214,8 @@ var _PlayerCHName = {
     "2216": {
         "player": {
             "id": "2216",
-            "name": "Zach Randolph",
-            "pos": 0
+            "name": "兰多夫",
+            "pos": 4
         },
         "team": {
             "id": "1610612763",
@@ -225,8 +225,8 @@ var _PlayerCHName = {
     "2225": {
         "player": {
             "id": "2225",
-            "name": "Tony Parker",
-            "pos": 0
+            "name": "帕克",
+            "pos": 1
         },
         "team": {
             "id": "1610612759",
@@ -236,8 +236,8 @@ var _PlayerCHName = {
     "2365": {
         "player": {
             "id": "2365",
-            "name": "Chris Andersen",
-            "pos": 0
+            "name": "安德森",
+            "pos": 5
         },
         "team": {
             "id": "1610612748",
@@ -247,8 +247,8 @@ var _PlayerCHName = {
     "2400": {
         "player": {
             "id": "2400",
-            "name": "Drew Gooden",
-            "pos": 0
+            "name": "古登",
+            "pos": 4
         },
         "team": {
             "id": "1610612764",
@@ -258,8 +258,8 @@ var _PlayerCHName = {
     "2403": {
         "player": {
             "id": "2403",
-            "name": "Nene",
-            "pos": 0
+            "name": "内内",
+            "pos": 4
         },
         "team": {
             "id": "1610612764",
@@ -269,8 +269,8 @@ var _PlayerCHName = {
     "2405": {
         "player": {
             "id": "2405",
-            "name": "Amar'e Stoudemire",
-            "pos": 0
+            "name": "斯塔德迈尔",
+            "pos": 5
         },
         "team": {
             "id": "1610612748",
@@ -280,8 +280,8 @@ var _PlayerCHName = {
     "2406": {
         "player": {
             "id": "2406",
-            "name": "Caron Butler",
-            "pos": 0
+            "name": "巴特勒",
+            "pos": 3
         },
         "team": {
             "id": "1610612758",
@@ -291,8 +291,8 @@ var _PlayerCHName = {
     "2419": {
         "player": {
             "id": "2419",
-            "name": "Tayshaun Prince",
-            "pos": 0
+            "name": "普林斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612750",
@@ -302,8 +302,8 @@ var _PlayerCHName = {
     "2440": {
         "player": {
             "id": "2440",
-            "name": "Matt Barnes",
-            "pos": 0
+            "name": "巴恩斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612763",
@@ -313,8 +313,8 @@ var _PlayerCHName = {
     "2446": {
         "player": {
             "id": "2446",
-            "name": "Rasual Butler",
-            "pos": 0
+            "name": "巴特勒",
+            "pos": 3
         },
         "team": {
             "id": "1610612759",
@@ -324,8 +324,8 @@ var _PlayerCHName = {
     "2449": {
         "player": {
             "id": "2449",
-            "name": "Luis Scola",
-            "pos": 0
+            "name": "斯科拉",
+            "pos": 4
         },
         "team": {
             "id": "1610612761",
@@ -335,8 +335,8 @@ var _PlayerCHName = {
     "2544": {
         "player": {
             "id": "2544",
-            "name": "LeBron James",
-            "pos": 0
+            "name": "詹姆斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612739",
@@ -346,8 +346,8 @@ var _PlayerCHName = {
     "2546": {
         "player": {
             "id": "2546",
-            "name": "Carmelo Anthony",
-            "pos": 0
+            "name": "安东尼",
+            "pos": 3
         },
         "team": {
             "id": "1610612752",
@@ -357,8 +357,8 @@ var _PlayerCHName = {
     "2547": {
         "player": {
             "id": "2547",
-            "name": "Chris Bosh",
-            "pos": 0
+            "name": "波什",
+            "pos": 4
         },
         "team": {
             "id": "1610612748",
@@ -368,8 +368,8 @@ var _PlayerCHName = {
     "2548": {
         "player": {
             "id": "2548",
-            "name": "Dwyane Wade",
-            "pos": 0
+            "name": "韦德",
+            "pos": 2
         },
         "team": {
             "id": "1610612748",
@@ -379,8 +379,8 @@ var _PlayerCHName = {
     "2549": {
         "player": {
             "id": "2549",
-            "name": "Chris Kaman",
-            "pos": 0
+            "name": "卡曼",
+            "pos": 5
         },
         "team": {
             "id": "1610612757",
@@ -390,8 +390,8 @@ var _PlayerCHName = {
     "2550": {
         "player": {
             "id": "2550",
-            "name": "Kirk Hinrich",
-            "pos": 0
+            "name": "辛里奇",
+            "pos": 2
         },
         "team": {
             "id": "1610612741",
@@ -401,8 +401,8 @@ var _PlayerCHName = {
     "2555": {
         "player": {
             "id": "2555",
-            "name": "Nick Collison",
-            "pos": 0
+            "name": "科里森",
+            "pos": 4
         },
         "team": {
             "id": "1610612760",
@@ -412,8 +412,8 @@ var _PlayerCHName = {
     "2561": {
         "player": {
             "id": "2561",
-            "name": "David West",
-            "pos": 0
+            "name": "韦斯特",
+            "pos": 4
         },
         "team": {
             "id": "1610612759",
@@ -423,8 +423,8 @@ var _PlayerCHName = {
     "2564": {
         "player": {
             "id": "2564",
-            "name": "Boris Diaw",
-            "pos": 0
+            "name": "迪奥",
+            "pos": 4
         },
         "team": {
             "id": "1610612759",
@@ -434,8 +434,8 @@ var _PlayerCHName = {
     "2570": {
         "player": {
             "id": "2570",
-            "name": "Kendrick Perkins",
-            "pos": 0
+            "name": "帕金斯",
+            "pos": 5
         },
         "team": {
             "id": "1610612740",
@@ -445,8 +445,8 @@ var _PlayerCHName = {
     "2571": {
         "player": {
             "id": "2571",
-            "name": "Leandro Barbosa",
-            "pos": 0
+            "name": "巴博萨",
+            "pos": 2
         },
         "team": {
             "id": "1610612744",
@@ -456,8 +456,8 @@ var _PlayerCHName = {
     "2581": {
         "player": {
             "id": "2581",
-            "name": "Steve Blake",
-            "pos": 0
+            "name": "布雷克",
+            "pos": 1
         },
         "team": {
             "id": "1610612765",
@@ -467,8 +467,8 @@ var _PlayerCHName = {
     "2585": {
         "player": {
             "id": "2585",
-            "name": "Zaza Pachulia",
-            "pos": 0
+            "name": "帕楚利亚",
+            "pos": 5
         },
         "team": {
             "id": "1610612742",
@@ -478,8 +478,8 @@ var _PlayerCHName = {
     "2588": {
         "player": {
             "id": "2588",
-            "name": "Matt Bonner",
-            "pos": 0
+            "name": "邦纳",
+            "pos": 5
         },
         "team": {
             "id": "1610612759",
@@ -489,8 +489,8 @@ var _PlayerCHName = {
     "2590": {
         "player": {
             "id": "2590",
-            "name": "Mo Williams",
-            "pos": 0
+            "name": "威廉姆斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612739",
@@ -500,8 +500,8 @@ var _PlayerCHName = {
     "2592": {
         "player": {
             "id": "2592",
-            "name": "James Jones",
-            "pos": 0
+            "name": "琼斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612739",
@@ -511,8 +511,8 @@ var _PlayerCHName = {
     "2594": {
         "player": {
             "id": "2594",
-            "name": "Kyle Korver",
-            "pos": 0
+            "name": "科沃尔",
+            "pos": 2
         },
         "team": {
             "id": "1610612737",
@@ -522,8 +522,8 @@ var _PlayerCHName = {
     "2617": {
         "player": {
             "id": "2617",
-            "name": "Udonis Haslem",
-            "pos": 0
+            "name": "哈斯勒姆",
+            "pos": 4
         },
         "team": {
             "id": "1610612748",
@@ -533,8 +533,8 @@ var _PlayerCHName = {
     "2730": {
         "player": {
             "id": "2730",
-            "name": "Dwight Howard",
-            "pos": 0
+            "name": "霍华德",
+            "pos": 5
         },
         "team": {
             "id": "1610612745",
@@ -544,8 +544,8 @@ var _PlayerCHName = {
     "2733": {
         "player": {
             "id": "2733",
-            "name": "Shaun Livingston",
-            "pos": 0
+            "name": "利文斯顿",
+            "pos": 1
         },
         "team": {
             "id": "1610612744",
@@ -555,8 +555,8 @@ var _PlayerCHName = {
     "2734": {
         "player": {
             "id": "2734",
-            "name": "Devin Harris",
-            "pos": 0
+            "name": "哈里斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612742",
@@ -566,8 +566,8 @@ var _PlayerCHName = {
     "2736": {
         "player": {
             "id": "2736",
-            "name": "Luol Deng",
-            "pos": 0
+            "name": "邓",
+            "pos": 3
         },
         "team": {
             "id": "1610612748",
@@ -577,8 +577,8 @@ var _PlayerCHName = {
     "2738": {
         "player": {
             "id": "2738",
-            "name": "Andre Iguodala",
-            "pos": 0
+            "name": "伊戈达拉",
+            "pos": 2
         },
         "team": {
             "id": "1610612744",
@@ -588,8 +588,8 @@ var _PlayerCHName = {
     "2743": {
         "player": {
             "id": "2743",
-            "name": "Kris Humphries",
-            "pos": 0
+            "name": "亨弗里斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612764",
@@ -599,8 +599,8 @@ var _PlayerCHName = {
     "2744": {
         "player": {
             "id": "2744",
-            "name": "Al Jefferson",
-            "pos": 0
+            "name": "杰弗森",
+            "pos": 5
         },
         "team": {
             "id": "1610612766",
@@ -610,8 +610,8 @@ var _PlayerCHName = {
     "2746": {
         "player": {
             "id": "2746",
-            "name": "Josh Smith",
-            "pos": 0
+            "name": "史密斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612746",
@@ -621,8 +621,8 @@ var _PlayerCHName = {
     "2747": {
         "player": {
             "id": "2747",
-            "name": "J.R. Smith",
-            "pos": 0
+            "name": "史密斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612739",
@@ -632,8 +632,8 @@ var _PlayerCHName = {
     "2749": {
         "player": {
             "id": "2749",
-            "name": "Jameer Nelson",
-            "pos": 0
+            "name": "尼尔森",
+            "pos": 1
         },
         "team": {
             "id": "1610612743",
@@ -643,8 +643,8 @@ var _PlayerCHName = {
     "2754": {
         "player": {
             "id": "2754",
-            "name": "Tony Allen",
-            "pos": 0
+            "name": "阿伦",
+            "pos": 3
         },
         "team": {
             "id": "1610612763",
@@ -654,8 +654,8 @@ var _PlayerCHName = {
     "2755": {
         "player": {
             "id": "2755",
-            "name": "Kevin Martin",
-            "pos": 0
+            "name": "马丁",
+            "pos": 2
         },
         "team": {
             "id": "1610612750",
@@ -665,8 +665,8 @@ var _PlayerCHName = {
     "2756": {
         "player": {
             "id": "2756",
-            "name": "Sasha Vujacic",
-            "pos": 0
+            "name": "武贾西奇",
+            "pos": 2
         },
         "team": {
             "id": "1610612752",
@@ -676,8 +676,8 @@ var _PlayerCHName = {
     "2757": {
         "player": {
             "id": "2757",
-            "name": "Beno Udrih",
-            "pos": 0
+            "name": "乌德里",
+            "pos": 1
         },
         "team": {
             "id": "1610612748",
@@ -687,8 +687,8 @@ var _PlayerCHName = {
     "2760": {
         "player": {
             "id": "2760",
-            "name": "Anderson Varejao",
-            "pos": 0
+            "name": "瓦莱乔",
+            "pos": 5
         },
         "team": {
             "id": "1610612739",
@@ -698,8 +698,8 @@ var _PlayerCHName = {
     "2772": {
         "player": {
             "id": "2772",
-            "name": "Trevor Ariza",
-            "pos": 0
+            "name": "阿里扎",
+            "pos": 3
         },
         "team": {
             "id": "1610612745",
@@ -709,8 +709,8 @@ var _PlayerCHName = {
     "101106": {
         "player": {
             "id": "101106",
-            "name": "Andrew Bogut",
-            "pos": 0
+            "name": "博古特",
+            "pos": 5
         },
         "team": {
             "id": "1610612744",
@@ -720,8 +720,8 @@ var _PlayerCHName = {
     "101107": {
         "player": {
             "id": "101107",
-            "name": "Marvin Williams",
-            "pos": 0
+            "name": "威廉姆斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612766",
@@ -731,8 +731,8 @@ var _PlayerCHName = {
     "101108": {
         "player": {
             "id": "101108",
-            "name": "Chris Paul",
-            "pos": 0
+            "name": "保罗",
+            "pos": 1
         },
         "team": {
             "id": "1610612746",
@@ -742,8 +742,8 @@ var _PlayerCHName = {
     "101109": {
         "player": {
             "id": "101109",
-            "name": "Raymond Felton",
-            "pos": 0
+            "name": "费尔顿",
+            "pos": 1
         },
         "team": {
             "id": "1610612742",
@@ -753,8 +753,8 @@ var _PlayerCHName = {
     "101111": {
         "player": {
             "id": "101111",
-            "name": "Charlie Villanueva",
-            "pos": 0
+            "name": "维兰纽瓦",
+            "pos": 4
         },
         "team": {
             "id": "1610612742",
@@ -764,8 +764,8 @@ var _PlayerCHName = {
     "101112": {
         "player": {
             "id": "101112",
-            "name": "Channing Frye",
-            "pos": 0
+            "name": "弗莱",
+            "pos": 5
         },
         "team": {
             "id": "1610612753",
@@ -775,8 +775,8 @@ var _PlayerCHName = {
     "101114": {
         "player": {
             "id": "101114",
-            "name": "Deron Williams",
-            "pos": 0
+            "name": "威廉姆斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612742",
@@ -786,8 +786,8 @@ var _PlayerCHName = {
     "101123": {
         "player": {
             "id": "101123",
-            "name": "Gerald Green",
-            "pos": 0
+            "name": "格林",
+            "pos": 2
         },
         "team": {
             "id": "1610612748",
@@ -797,8 +797,8 @@ var _PlayerCHName = {
     "101126": {
         "player": {
             "id": "101126",
-            "name": "Nate Robinson",
-            "pos": 0
+            "name": "罗宾逊",
+            "pos": 1
         },
         "team": {
             "id": "1610612740",
@@ -808,8 +808,8 @@ var _PlayerCHName = {
     "101127": {
         "player": {
             "id": "101127",
-            "name": "Jarrett Jack",
-            "pos": 0
+            "name": "杰克",
+            "pos": 1
         },
         "team": {
             "id": "1610612751",
@@ -819,8 +819,8 @@ var _PlayerCHName = {
     "101133": {
         "player": {
             "id": "101133",
-            "name": "Ian Mahinmi",
-            "pos": 0
+            "name": "马因米",
+            "pos": 5
         },
         "team": {
             "id": "1610612754",
@@ -830,8 +830,8 @@ var _PlayerCHName = {
     "101135": {
         "player": {
             "id": "101135",
-            "name": "David Lee",
-            "pos": 0
+            "name": "李",
+            "pos": 4
         },
         "team": {
             "id": "1610612738",
@@ -841,8 +841,8 @@ var _PlayerCHName = {
     "101138": {
         "player": {
             "id": "101138",
-            "name": "Brandon Bass",
-            "pos": 0
+            "name": "巴斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612747",
@@ -852,8 +852,8 @@ var _PlayerCHName = {
     "101139": {
         "player": {
             "id": "101139",
-            "name": "CJ Miles",
-            "pos": 0
+            "name": "迈尔斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612754",
@@ -863,8 +863,8 @@ var _PlayerCHName = {
     "101141": {
         "player": {
             "id": "101141",
-            "name": "Ersan Ilyasova",
-            "pos": 0
+            "name": "伊利亚索瓦",
+            "pos": 4
         },
         "team": {
             "id": "1610612765",
@@ -874,8 +874,8 @@ var _PlayerCHName = {
     "101145": {
         "player": {
             "id": "101145",
-            "name": "Monta Ellis",
-            "pos": 0
+            "name": "埃利斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612754",
@@ -885,8 +885,8 @@ var _PlayerCHName = {
     "101150": {
         "player": {
             "id": "101150",
-            "name": "Lou Williams",
-            "pos": 0
+            "name": "威廉姆斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612747",
@@ -896,8 +896,8 @@ var _PlayerCHName = {
     "101161": {
         "player": {
             "id": "101161",
-            "name": "Amir Johnson",
-            "pos": 0
+            "name": "约翰逊",
+            "pos": 4
         },
         "team": {
             "id": "1610612738",
@@ -907,8 +907,8 @@ var _PlayerCHName = {
     "101162": {
         "player": {
             "id": "101162",
-            "name": "Marcin Gortat",
-            "pos": 0
+            "name": "戈塔特",
+            "pos": 5
         },
         "team": {
             "id": "1610612764",
@@ -918,8 +918,8 @@ var _PlayerCHName = {
     "101179": {
         "player": {
             "id": "101179",
-            "name": "Ronnie Price",
-            "pos": 0
+            "name": "普莱斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612756",
@@ -929,8 +929,8 @@ var _PlayerCHName = {
     "101181": {
         "player": {
             "id": "101181",
-            "name": "Jose Calderon",
-            "pos": 0
+            "name": "卡尔德隆",
+            "pos": 1
         },
         "team": {
             "id": "1610612752",
@@ -940,8 +940,8 @@ var _PlayerCHName = {
     "101236": {
         "player": {
             "id": "101236",
-            "name": "Charles Hayes",
-            "pos": 0
+            "name": "海耶斯",
+            "pos": 5
         },
         "team": {
             "id": "1610612745",
@@ -951,8 +951,8 @@ var _PlayerCHName = {
     "200745": {
         "player": {
             "id": "200745",
-            "name": "Andrea Bargnani",
-            "pos": 0
+            "name": "巴尼亚尼",
+            "pos": 5
         },
         "team": {
             "id": "1610612751",
@@ -962,8 +962,8 @@ var _PlayerCHName = {
     "200746": {
         "player": {
             "id": "200746",
-            "name": "LaMarcus Aldridge",
-            "pos": 0
+            "name": "阿尔德里奇",
+            "pos": 4
         },
         "team": {
             "id": "1610612759",
@@ -973,8 +973,8 @@ var _PlayerCHName = {
     "200751": {
         "player": {
             "id": "200751",
-            "name": "Randy Foye",
-            "pos": 0
+            "name": "弗耶",
+            "pos": 2
         },
         "team": {
             "id": "1610612743",
@@ -984,8 +984,8 @@ var _PlayerCHName = {
     "200752": {
         "player": {
             "id": "200752",
-            "name": "Rudy Gay",
-            "pos": 0
+            "name": "盖伊",
+            "pos": 3
         },
         "team": {
             "id": "1610612758",
@@ -995,8 +995,8 @@ var _PlayerCHName = {
     "200755": {
         "player": {
             "id": "200755",
-            "name": "JJ Redick",
-            "pos": 0
+            "name": "雷迪克",
+            "pos": 2
         },
         "team": {
             "id": "1610612746",
@@ -1006,8 +1006,8 @@ var _PlayerCHName = {
     "200757": {
         "player": {
             "id": "200757",
-            "name": "Thabo Sefolosha",
-            "pos": 0
+            "name": "塞弗洛沙",
+            "pos": 3
         },
         "team": {
             "id": "1610612737",
@@ -1017,8 +1017,8 @@ var _PlayerCHName = {
     "200765": {
         "player": {
             "id": "200765",
-            "name": "Rajon Rondo",
-            "pos": 0
+            "name": "隆多",
+            "pos": 1
         },
         "team": {
             "id": "1610612758",
@@ -1028,8 +1028,8 @@ var _PlayerCHName = {
     "200768": {
         "player": {
             "id": "200768",
-            "name": "Kyle Lowry",
-            "pos": 0
+            "name": "洛瑞",
+            "pos": 1
         },
         "team": {
             "id": "1610612761",
@@ -1039,8 +1039,8 @@ var _PlayerCHName = {
     "200779": {
         "player": {
             "id": "200779",
-            "name": "Steve Novak",
-            "pos": 0
+            "name": "诺瓦克",
+            "pos": 4
         },
         "team": {
             "id": "1610612760",
@@ -1050,8 +1050,8 @@ var _PlayerCHName = {
     "200782": {
         "player": {
             "id": "200782",
-            "name": "PJ Tucker",
-            "pos": 0
+            "name": "塔克",
+            "pos": 3
         },
         "team": {
             "id": "1610612756",
@@ -1061,8 +1061,8 @@ var _PlayerCHName = {
     "200794": {
         "player": {
             "id": "200794",
-            "name": "Paul Millsap",
-            "pos": 0
+            "name": "米尔萨普",
+            "pos": 4
         },
         "team": {
             "id": "1610612737",
@@ -1072,8 +1072,8 @@ var _PlayerCHName = {
     "200811": {
         "player": {
             "id": "200811",
-            "name": "Lou Amundson",
-            "pos": 0
+            "name": "阿蒙德森",
+            "pos": 4
         },
         "team": {
             "id": "1610612752",
@@ -1083,8 +1083,8 @@ var _PlayerCHName = {
     "200826": {
         "player": {
             "id": "200826",
-            "name": "Jose Juan Barea",
-            "pos": 0
+            "name": "巴里亚",
+            "pos": 1
         },
         "team": {
             "id": "1610612742",
@@ -1094,8 +1094,8 @@ var _PlayerCHName = {
     "201142": {
         "player": {
             "id": "201142",
-            "name": "Kevin Durant",
-            "pos": 0
+            "name": "杜兰特",
+            "pos": 3
         },
         "team": {
             "id": "1610612760",
@@ -1105,8 +1105,8 @@ var _PlayerCHName = {
     "201143": {
         "player": {
             "id": "201143",
-            "name": "Al Horford",
-            "pos": 0
+            "name": "霍福德",
+            "pos": 5
         },
         "team": {
             "id": "1610612737",
@@ -1116,8 +1116,8 @@ var _PlayerCHName = {
     "201144": {
         "player": {
             "id": "201144",
-            "name": "Mike Conley",
-            "pos": 0
+            "name": "康利",
+            "pos": 1
         },
         "team": {
             "id": "1610612763",
@@ -1127,8 +1127,8 @@ var _PlayerCHName = {
     "201145": {
         "player": {
             "id": "201145",
-            "name": "Jeff Green",
-            "pos": 0
+            "name": "格林",
+            "pos": 3
         },
         "team": {
             "id": "1610612763",
@@ -1138,8 +1138,8 @@ var _PlayerCHName = {
     "201147": {
         "player": {
             "id": "201147",
-            "name": "Corey Brewer",
-            "pos": 0
+            "name": "布鲁尔",
+            "pos": 3
         },
         "team": {
             "id": "1610612745",
@@ -1149,8 +1149,8 @@ var _PlayerCHName = {
     "201148": {
         "player": {
             "id": "201148",
-            "name": "Brandan Wright",
-            "pos": 0
+            "name": "莱特",
+            "pos": 4
         },
         "team": {
             "id": "1610612763",
@@ -1160,8 +1160,8 @@ var _PlayerCHName = {
     "201149": {
         "player": {
             "id": "201149",
-            "name": "Joakim Noah",
-            "pos": 0
+            "name": "诺阿",
+            "pos": 5
         },
         "team": {
             "id": "1610612741",
@@ -1171,8 +1171,8 @@ var _PlayerCHName = {
     "201150": {
         "player": {
             "id": "201150",
-            "name": "Spencer Hawes",
-            "pos": 0
+            "name": "霍伊斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612766",
@@ -1182,8 +1182,8 @@ var _PlayerCHName = {
     "201152": {
         "player": {
             "id": "201152",
-            "name": "Thaddeus Young",
-            "pos": 0
+            "name": "杨",
+            "pos": 4
         },
         "team": {
             "id": "1610612751",
@@ -1193,8 +1193,8 @@ var _PlayerCHName = {
     "201155": {
         "player": {
             "id": "201155",
-            "name": "Rodney Stuckey",
-            "pos": 0
+            "name": "斯塔基",
+            "pos": 1
         },
         "team": {
             "id": "1610612754",
@@ -1204,8 +1204,8 @@ var _PlayerCHName = {
     "201156": {
         "player": {
             "id": "201156",
-            "name": "Nick Young",
-            "pos": 0
+            "name": "杨",
+            "pos": 2
         },
         "team": {
             "id": "1610612747",
@@ -1215,8 +1215,8 @@ var _PlayerCHName = {
     "201158": {
         "player": {
             "id": "201158",
-            "name": "Marco Belinelli",
-            "pos": 0
+            "name": "贝里内利",
+            "pos": 2
         },
         "team": {
             "id": "1610612758",
@@ -1226,8 +1226,8 @@ var _PlayerCHName = {
     "201160": {
         "player": {
             "id": "201160",
-            "name": "Jason Smith",
-            "pos": 0
+            "name": "史密斯",
+            "pos": 5
         },
         "team": {
             "id": "1610612753",
@@ -1237,8 +1237,8 @@ var _PlayerCHName = {
     "201162": {
         "player": {
             "id": "201162",
-            "name": "Jared Dudley",
-            "pos": 0
+            "name": "达德利",
+            "pos": 4
         },
         "team": {
             "id": "1610612764",
@@ -1248,8 +1248,8 @@ var _PlayerCHName = {
     "201166": {
         "player": {
             "id": "201166",
-            "name": "Aaron Brooks",
-            "pos": 0
+            "name": "布鲁克斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612741",
@@ -1259,8 +1259,8 @@ var _PlayerCHName = {
     "201167": {
         "player": {
             "id": "201167",
-            "name": "Arron Afflalo",
-            "pos": 0
+            "name": "阿弗拉罗",
+            "pos": 2
         },
         "team": {
             "id": "1610612752",
@@ -1270,8 +1270,8 @@ var _PlayerCHName = {
     "201168": {
         "player": {
             "id": "201168",
-            "name": "Tiago Splitter",
-            "pos": 0
+            "name": "斯普利特",
+            "pos": 5
         },
         "team": {
             "id": "1610612737",
@@ -1281,8 +1281,8 @@ var _PlayerCHName = {
     "201177": {
         "player": {
             "id": "201177",
-            "name": "Josh McRoberts",
-            "pos": 0
+            "name": "迈克罗伯茨",
+            "pos": 4
         },
         "team": {
             "id": "1610612748",
@@ -1292,8 +1292,8 @@ var _PlayerCHName = {
     "201188": {
         "player": {
             "id": "201188",
-            "name": "Marc Gasol",
-            "pos": 0
+            "name": "加索尔",
+            "pos": 5
         },
         "team": {
             "id": "1610612763",
@@ -1303,8 +1303,8 @@ var _PlayerCHName = {
     "201196": {
         "player": {
             "id": "201196",
-            "name": "Ramon Sessions",
-            "pos": 0
+            "name": "塞申斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612764",
@@ -1314,8 +1314,8 @@ var _PlayerCHName = {
     "201202": {
         "player": {
             "id": "201202",
-            "name": "Joel Anthony",
-            "pos": 0
+            "name": "安东尼",
+            "pos": 5
         },
         "team": {
             "id": "1610612765",
@@ -1325,8 +1325,8 @@ var _PlayerCHName = {
     "201228": {
         "player": {
             "id": "201228",
-            "name": "CJ Watson",
-            "pos": 0
+            "name": "沃特森",
+            "pos": 1
         },
         "team": {
             "id": "1610612753",
@@ -1336,8 +1336,8 @@ var _PlayerCHName = {
     "201229": {
         "player": {
             "id": "201229",
-            "name": "Anthony Tolliver",
-            "pos": 0
+            "name": "托利弗",
+            "pos": 4
         },
         "team": {
             "id": "1610612765",
@@ -1347,8 +1347,8 @@ var _PlayerCHName = {
     "201564": {
         "player": {
             "id": "201564",
-            "name": "O.J. Mayo",
-            "pos": 0
+            "name": "梅奥",
+            "pos": 2
         },
         "team": {
             "id": "1610612749",
@@ -1358,8 +1358,8 @@ var _PlayerCHName = {
     "201565": {
         "player": {
             "id": "201565",
-            "name": "Derrick Rose",
-            "pos": 0
+            "name": "罗斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612741",
@@ -1369,8 +1369,8 @@ var _PlayerCHName = {
     "201566": {
         "player": {
             "id": "201566",
-            "name": "Russell Westbrook",
-            "pos": 0
+            "name": "威斯布鲁克",
+            "pos": 1
         },
         "team": {
             "id": "1610612760",
@@ -1380,8 +1380,8 @@ var _PlayerCHName = {
     "201567": {
         "player": {
             "id": "201567",
-            "name": "Kevin Love",
-            "pos": 0
+            "name": "勒夫",
+            "pos": 4
         },
         "team": {
             "id": "1610612739",
@@ -1391,8 +1391,8 @@ var _PlayerCHName = {
     "201568": {
         "player": {
             "id": "201568",
-            "name": "Danilo Gallinari",
-            "pos": 0
+            "name": "加里纳利",
+            "pos": 3
         },
         "team": {
             "id": "1610612743",
@@ -1402,8 +1402,8 @@ var _PlayerCHName = {
     "201569": {
         "player": {
             "id": "201569",
-            "name": "Eric Gordon",
-            "pos": 0
+            "name": "戈登",
+            "pos": 2
         },
         "team": {
             "id": "1610612740",
@@ -1413,8 +1413,8 @@ var _PlayerCHName = {
     "201571": {
         "player": {
             "id": "201571",
-            "name": "D.J. Augustin",
-            "pos": 0
+            "name": "奥古斯汀",
+            "pos": 1
         },
         "team": {
             "id": "1610612760",
@@ -1424,8 +1424,8 @@ var _PlayerCHName = {
     "201572": {
         "player": {
             "id": "201572",
-            "name": "Brook Lopez",
-            "pos": 0
+            "name": "洛佩斯",
+            "pos": 5
         },
         "team": {
             "id": "1610612751",
@@ -1435,8 +1435,8 @@ var _PlayerCHName = {
     "201573": {
         "player": {
             "id": "201573",
-            "name": "Jerryd Bayless",
-            "pos": 0
+            "name": "贝勒斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612749",
@@ -1446,8 +1446,8 @@ var _PlayerCHName = {
     "201574": {
         "player": {
             "id": "201574",
-            "name": "Jason Thompson",
-            "pos": 0
+            "name": "J.汤普森",
+            "pos": 5
         },
         "team": {
             "id": "1610612744",
@@ -1457,8 +1457,8 @@ var _PlayerCHName = {
     "201575": {
         "player": {
             "id": "201575",
-            "name": "Brandon Rush",
-            "pos": 0
+            "name": "拉什",
+            "pos": 2
         },
         "team": {
             "id": "1610612744",
@@ -1468,8 +1468,8 @@ var _PlayerCHName = {
     "201577": {
         "player": {
             "id": "201577",
-            "name": "Robin Lopez",
-            "pos": 0
+            "name": "洛佩斯",
+            "pos": 5
         },
         "team": {
             "id": "1610612752",
@@ -1479,8 +1479,8 @@ var _PlayerCHName = {
     "201578": {
         "player": {
             "id": "201578",
-            "name": "Marreese Speights",
-            "pos": 0
+            "name": "斯贝茨",
+            "pos": 4
         },
         "team": {
             "id": "1610612744",
@@ -1490,8 +1490,8 @@ var _PlayerCHName = {
     "201579": {
         "player": {
             "id": "201579",
-            "name": "Roy Hibbert",
-            "pos": 0
+            "name": "希伯特",
+            "pos": 5
         },
         "team": {
             "id": "1610612747",
@@ -1501,8 +1501,8 @@ var _PlayerCHName = {
     "201580": {
         "player": {
             "id": "201580",
-            "name": "JaVale McGee",
-            "pos": 0
+            "name": "麦基",
+            "pos": 5
         },
         "team": {
             "id": "1610612742",
@@ -1512,8 +1512,8 @@ var _PlayerCHName = {
     "201581": {
         "player": {
             "id": "201581",
-            "name": "JJ Hickson",
-            "pos": 0
+            "name": "希克森",
+            "pos": 5
         },
         "team": {
             "id": "1610612743",
@@ -1523,8 +1523,8 @@ var _PlayerCHName = {
     "201582": {
         "player": {
             "id": "201582",
-            "name": "Alexis Ajinca",
-            "pos": 0
+            "name": "阿金萨",
+            "pos": 5
         },
         "team": {
             "id": "1610612740",
@@ -1534,8 +1534,8 @@ var _PlayerCHName = {
     "201583": {
         "player": {
             "id": "201583",
-            "name": "Ryan Anderson",
-            "pos": 0
+            "name": "安德森",
+            "pos": 4
         },
         "team": {
             "id": "1610612740",
@@ -1545,8 +1545,8 @@ var _PlayerCHName = {
     "201584": {
         "player": {
             "id": "201584",
-            "name": "Courtney Lee",
-            "pos": 0
+            "name": "李",
+            "pos": 2
         },
         "team": {
             "id": "1610612763",
@@ -1556,8 +1556,8 @@ var _PlayerCHName = {
     "201585": {
         "player": {
             "id": "201585",
-            "name": "Kosta Koufos",
-            "pos": 0
+            "name": "库弗斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612758",
@@ -1567,8 +1567,8 @@ var _PlayerCHName = {
     "201586": {
         "player": {
             "id": "201586",
-            "name": "Serge Ibaka",
-            "pos": 0
+            "name": "伊巴卡",
+            "pos": 4
         },
         "team": {
             "id": "1610612760",
@@ -1578,8 +1578,8 @@ var _PlayerCHName = {
     "201587": {
         "player": {
             "id": "201587",
-            "name": "Nicolas Batum",
-            "pos": 0
+            "name": "巴图姆",
+            "pos": 2
         },
         "team": {
             "id": "1610612766",
@@ -1589,8 +1589,8 @@ var _PlayerCHName = {
     "201588": {
         "player": {
             "id": "201588",
-            "name": "George Hill",
-            "pos": 0
+            "name": "G.希尔",
+            "pos": 1
         },
         "team": {
             "id": "1610612754",
@@ -1600,8 +1600,8 @@ var _PlayerCHName = {
     "201589": {
         "player": {
             "id": "201589",
-            "name": "Darrell Arthur",
-            "pos": 0
+            "name": "亚瑟",
+            "pos": 4
         },
         "team": {
             "id": "1610612743",
@@ -1611,8 +1611,8 @@ var _PlayerCHName = {
     "201596": {
         "player": {
             "id": "201596",
-            "name": "Mario Chalmers",
-            "pos": 0
+            "name": "查尔莫斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612763",
@@ -1622,8 +1622,8 @@ var _PlayerCHName = {
     "201599": {
         "player": {
             "id": "201599",
-            "name": "DeAndre Jordan",
-            "pos": 0
+            "name": "乔丹",
+            "pos": 5
         },
         "team": {
             "id": "1610612746",
@@ -1633,8 +1633,8 @@ var _PlayerCHName = {
     "201600": {
         "player": {
             "id": "201600",
-            "name": "Omer Asik",
-            "pos": 0
+            "name": "阿西克",
+            "pos": 5
         },
         "team": {
             "id": "1610612740",
@@ -1644,8 +1644,8 @@ var _PlayerCHName = {
     "201601": {
         "player": {
             "id": "201601",
-            "name": "Luc Mbah a Moute",
-            "pos": 0
+            "name": "巴莫特",
+            "pos": 4
         },
         "team": {
             "id": "1610612746",
@@ -1655,8 +1655,8 @@ var _PlayerCHName = {
     "201603": {
         "player": {
             "id": "201603",
-            "name": "Sonny Weems",
-            "pos": 0
+            "name": "维姆斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612756",
@@ -1666,8 +1666,8 @@ var _PlayerCHName = {
     "201609": {
         "player": {
             "id": "201609",
-            "name": "Goran Dragic",
-            "pos": 0
+            "name": "德拉季奇",
+            "pos": 1
         },
         "team": {
             "id": "1610612748",
@@ -1677,8 +1677,8 @@ var _PlayerCHName = {
     "201619": {
         "player": {
             "id": "201619",
-            "name": "Sasha Kaun",
-            "pos": 0
+            "name": "考恩",
+            "pos": 5
         },
         "team": {
             "id": "1610612739",
@@ -1688,8 +1688,8 @@ var _PlayerCHName = {
     "201627": {
         "player": {
             "id": "201627",
-            "name": "Anthony Morrow",
-            "pos": 0
+            "name": "莫罗",
+            "pos": 2
         },
         "team": {
             "id": "1610612760",
@@ -1699,8 +1699,8 @@ var _PlayerCHName = {
     "201933": {
         "player": {
             "id": "201933",
-            "name": "Blake Griffin",
-            "pos": 0
+            "name": "格里芬",
+            "pos": 4
         },
         "team": {
             "id": "1610612746",
@@ -1710,8 +1710,8 @@ var _PlayerCHName = {
     "201935": {
         "player": {
             "id": "201935",
-            "name": "James Harden",
-            "pos": 0
+            "name": "哈登",
+            "pos": 2
         },
         "team": {
             "id": "1610612745",
@@ -1721,8 +1721,8 @@ var _PlayerCHName = {
     "201937": {
         "player": {
             "id": "201937",
-            "name": "Ricky Rubio",
-            "pos": 0
+            "name": "卢比奥",
+            "pos": 1
         },
         "team": {
             "id": "1610612750",
@@ -1733,7 +1733,7 @@ var _PlayerCHName = {
         "player": {
             "id": "201939",
             "name": "库里",
-            "pos": 0
+            "pos": 1
         },
         "team": {
             "id": "1610612744",
@@ -1743,8 +1743,8 @@ var _PlayerCHName = {
     "201941": {
         "player": {
             "id": "201941",
-            "name": "Jordan Hill",
-            "pos": 0
+            "name": "J.希尔",
+            "pos": 4
         },
         "team": {
             "id": "1610612754",
@@ -1754,8 +1754,8 @@ var _PlayerCHName = {
     "201942": {
         "player": {
             "id": "201942",
-            "name": "DeMar DeRozan",
-            "pos": 0
+            "name": "德罗赞",
+            "pos": 2
         },
         "team": {
             "id": "1610612761",
@@ -1765,8 +1765,8 @@ var _PlayerCHName = {
     "201945": {
         "player": {
             "id": "201945",
-            "name": "Gerald Henderson",
-            "pos": 0
+            "name": "亨德森",
+            "pos": 2
         },
         "team": {
             "id": "1610612757",
@@ -1776,8 +1776,8 @@ var _PlayerCHName = {
     "201946": {
         "player": {
             "id": "201946",
-            "name": "Tyler Hansbrough",
-            "pos": 0
+            "name": "汉斯布鲁",
+            "pos": 4
         },
         "team": {
             "id": "1610612766",
@@ -1787,8 +1787,8 @@ var _PlayerCHName = {
     "201949": {
         "player": {
             "id": "201949",
-            "name": "James Johnson",
-            "pos": 0
+            "name": "约翰逊",
+            "pos": 4
         },
         "team": {
             "id": "1610612761",
@@ -1798,8 +1798,8 @@ var _PlayerCHName = {
     "201950": {
         "player": {
             "id": "201950",
-            "name": "Jrue Holiday",
-            "pos": 0
+            "name": "霍勒迪",
+            "pos": 1
         },
         "team": {
             "id": "1610612740",
@@ -1809,8 +1809,8 @@ var _PlayerCHName = {
     "201951": {
         "player": {
             "id": "201951",
-            "name": "Ty Lawson",
-            "pos": 0
+            "name": "劳森",
+            "pos": 1
         },
         "team": {
             "id": "1610612745",
@@ -1820,8 +1820,8 @@ var _PlayerCHName = {
     "201952": {
         "player": {
             "id": "201952",
-            "name": "Jeff Teague",
-            "pos": 0
+            "name": "蒂格",
+            "pos": 1
         },
         "team": {
             "id": "1610612737",
@@ -1831,8 +1831,8 @@ var _PlayerCHName = {
     "201954": {
         "player": {
             "id": "201954",
-            "name": "Darren Collison",
-            "pos": 0
+            "name": "科里森",
+            "pos": 1
         },
         "team": {
             "id": "1610612758",
@@ -1842,8 +1842,8 @@ var _PlayerCHName = {
     "201956": {
         "player": {
             "id": "201956",
-            "name": "Omri Casspi",
-            "pos": 0
+            "name": "卡斯比",
+            "pos": 3
         },
         "team": {
             "id": "1610612758",
@@ -1853,8 +1853,8 @@ var _PlayerCHName = {
     "201959": {
         "player": {
             "id": "201959",
-            "name": "Taj Gibson",
-            "pos": 0
+            "name": "吉布森",
+            "pos": 4
         },
         "team": {
             "id": "1610612741",
@@ -1864,8 +1864,8 @@ var _PlayerCHName = {
     "201960": {
         "player": {
             "id": "201960",
-            "name": "DeMarre Carroll",
-            "pos": 0
+            "name": "卡罗尔",
+            "pos": 3
         },
         "team": {
             "id": "1610612761",
@@ -1875,8 +1875,8 @@ var _PlayerCHName = {
     "201961": {
         "player": {
             "id": "201961",
-            "name": "Wayne Ellington",
-            "pos": 0
+            "name": "艾灵顿",
+            "pos": 2
         },
         "team": {
             "id": "1610612751",
@@ -1886,8 +1886,8 @@ var _PlayerCHName = {
     "201962": {
         "player": {
             "id": "201962",
-            "name": "Toney Douglas",
-            "pos": 0
+            "name": "道格拉斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612740",
@@ -1897,8 +1897,8 @@ var _PlayerCHName = {
     "201967": {
         "player": {
             "id": "201967",
-            "name": "Dante Cunningham",
-            "pos": 0
+            "name": "康宁汉姆",
+            "pos": 3
         },
         "team": {
             "id": "1610612740",
@@ -1908,8 +1908,8 @@ var _PlayerCHName = {
     "201971": {
         "player": {
             "id": "201971",
-            "name": "DeJuan Blair",
-            "pos": 0
+            "name": "布莱尔",
+            "pos": 5
         },
         "team": {
             "id": "1610612764",
@@ -1919,8 +1919,8 @@ var _PlayerCHName = {
     "201973": {
         "player": {
             "id": "201973",
-            "name": "Jonas Jerebko",
-            "pos": 0
+            "name": "杰雷布科",
+            "pos": 4
         },
         "team": {
             "id": "1610612738",
@@ -1930,8 +1930,8 @@ var _PlayerCHName = {
     "201975": {
         "player": {
             "id": "201975",
-            "name": "Jodie Meeks",
-            "pos": 0
+            "name": "米克斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612765",
@@ -1941,8 +1941,8 @@ var _PlayerCHName = {
     "201976": {
         "player": {
             "id": "201976",
-            "name": "Patrick Beverley",
-            "pos": 0
+            "name": "贝弗利",
+            "pos": 1
         },
         "team": {
             "id": "1610612745",
@@ -1952,8 +1952,8 @@ var _PlayerCHName = {
     "201977": {
         "player": {
             "id": "201977",
-            "name": "Marcus Thornton",
-            "pos": 0
+            "name": "索顿",
+            "pos": 2
         },
         "team": {
             "id": "1610612745",
@@ -1963,8 +1963,8 @@ var _PlayerCHName = {
     "201978": {
         "player": {
             "id": "201978",
-            "name": "Chase Budinger",
-            "pos": 0
+            "name": "巴丁杰",
+            "pos": 3
         },
         "team": {
             "id": "1610612754",
@@ -1974,8 +1974,8 @@ var _PlayerCHName = {
     "201980": {
         "player": {
             "id": "201980",
-            "name": "Danny Green",
-            "pos": 0
+            "name": "格林",
+            "pos": 2
         },
         "team": {
             "id": "1610612759",
@@ -1985,8 +1985,8 @@ var _PlayerCHName = {
     "201988": {
         "player": {
             "id": "201988",
-            "name": "Patty Mills",
-            "pos": 0
+            "name": "米尔斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612759",
@@ -1996,8 +1996,8 @@ var _PlayerCHName = {
     "202066": {
         "player": {
             "id": "202066",
-            "name": "Garrett Temple",
-            "pos": 0
+            "name": "坦普尔",
+            "pos": 3
         },
         "team": {
             "id": "1610612764",
@@ -2007,8 +2007,8 @@ var _PlayerCHName = {
     "202083": {
         "player": {
             "id": "202083",
-            "name": "Wesley Matthews",
-            "pos": 0
+            "name": "马修斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612742",
@@ -2018,8 +2018,8 @@ var _PlayerCHName = {
     "202087": {
         "player": {
             "id": "202087",
-            "name": "Alonzo Gee",
-            "pos": 0
+            "name": "基",
+            "pos": 3
         },
         "team": {
             "id": "1610612740",
@@ -2029,8 +2029,8 @@ var _PlayerCHName = {
     "202322": {
         "player": {
             "id": "202322",
-            "name": "John Wall",
-            "pos": 0
+            "name": "沃尔",
+            "pos": 1
         },
         "team": {
             "id": "1610612764",
@@ -2040,8 +2040,8 @@ var _PlayerCHName = {
     "202323": {
         "player": {
             "id": "202323",
-            "name": "Evan Turner",
-            "pos": 0
+            "name": "特纳",
+            "pos": 2
         },
         "team": {
             "id": "1610612738",
@@ -2051,8 +2051,8 @@ var _PlayerCHName = {
     "202324": {
         "player": {
             "id": "202324",
-            "name": "Derrick Favors",
-            "pos": 0
+            "name": "费沃斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612762",
@@ -2062,8 +2062,8 @@ var _PlayerCHName = {
     "202325": {
         "player": {
             "id": "202325",
-            "name": "Wesley Johnson",
-            "pos": 0
+            "name": "约翰逊",
+            "pos": 3
         },
         "team": {
             "id": "1610612746",
@@ -2073,8 +2073,8 @@ var _PlayerCHName = {
     "202326": {
         "player": {
             "id": "202326",
-            "name": "DeMarcus Cousins",
-            "pos": 0
+            "name": "考辛斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612758",
@@ -2084,8 +2084,8 @@ var _PlayerCHName = {
     "202328": {
         "player": {
             "id": "202328",
-            "name": "Greg Monroe",
-            "pos": 0
+            "name": "门罗",
+            "pos": 5
         },
         "team": {
             "id": "1610612749",
@@ -2095,8 +2095,8 @@ var _PlayerCHName = {
     "202329": {
         "player": {
             "id": "202329",
-            "name": "Al-Farouq Aminu",
-            "pos": 0
+            "name": "阿米努",
+            "pos": 3
         },
         "team": {
             "id": "1610612757",
@@ -2106,8 +2106,8 @@ var _PlayerCHName = {
     "202330": {
         "player": {
             "id": "202330",
-            "name": "Gordon Hayward",
-            "pos": 0
+            "name": "海沃德",
+            "pos": 3
         },
         "team": {
             "id": "1610612762",
@@ -2117,8 +2117,8 @@ var _PlayerCHName = {
     "202331": {
         "player": {
             "id": "202331",
-            "name": "Paul George",
-            "pos": 0
+            "name": "乔治",
+            "pos": 4
         },
         "team": {
             "id": "1610612754",
@@ -2128,8 +2128,8 @@ var _PlayerCHName = {
     "202332": {
         "player": {
             "id": "202332",
-            "name": "Cole Aldrich",
-            "pos": 0
+            "name": "阿尔德里奇",
+            "pos": 5
         },
         "team": {
             "id": "1610612746",
@@ -2139,8 +2139,8 @@ var _PlayerCHName = {
     "202334": {
         "player": {
             "id": "202334",
-            "name": "Ed Davis",
-            "pos": 0
+            "name": "戴维斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612757",
@@ -2150,8 +2150,8 @@ var _PlayerCHName = {
     "202335": {
         "player": {
             "id": "202335",
-            "name": "Patrick Patterson",
-            "pos": 0
+            "name": "帕特森",
+            "pos": 4
         },
         "team": {
             "id": "1610612761",
@@ -2161,8 +2161,8 @@ var _PlayerCHName = {
     "202337": {
         "player": {
             "id": "202337",
-            "name": "Luke Babbitt",
-            "pos": 0
+            "name": "巴比特",
+            "pos": 3
         },
         "team": {
             "id": "1610612740",
@@ -2172,8 +2172,8 @@ var _PlayerCHName = {
     "202338": {
         "player": {
             "id": "202338",
-            "name": "Kevin Seraphin",
-            "pos": 0
+            "name": "塞拉芬",
+            "pos": 5
         },
         "team": {
             "id": "1610612752",
@@ -2183,8 +2183,8 @@ var _PlayerCHName = {
     "202339": {
         "player": {
             "id": "202339",
-            "name": "Eric Bledsoe",
-            "pos": 0
+            "name": "布莱德索",
+            "pos": 1
         },
         "team": {
             "id": "1610612756",
@@ -2194,8 +2194,8 @@ var _PlayerCHName = {
     "202340": {
         "player": {
             "id": "202340",
-            "name": "Avery Bradley",
-            "pos": 0
+            "name": "布拉德利",
+            "pos": 2
         },
         "team": {
             "id": "1610612738",
@@ -2205,8 +2205,8 @@ var _PlayerCHName = {
     "202341": {
         "player": {
             "id": "202341",
-            "name": "James Anderson",
-            "pos": 0
+            "name": "安德森",
+            "pos": 2
         },
         "team": {
             "id": "1610612758",
@@ -2216,8 +2216,8 @@ var _PlayerCHName = {
     "202344": {
         "player": {
             "id": "202344",
-            "name": "Trevor Booker",
-            "pos": 0
+            "name": "布克",
+            "pos": 4
         },
         "team": {
             "id": "1610612762",
@@ -2227,8 +2227,8 @@ var _PlayerCHName = {
     "202349": {
         "player": {
             "id": "202349",
-            "name": "Greivis Vasquez",
-            "pos": 0
+            "name": "瓦斯奎兹",
+            "pos": 1
         },
         "team": {
             "id": "1610612749",
@@ -2238,8 +2238,8 @@ var _PlayerCHName = {
     "202353": {
         "player": {
             "id": "202353",
-            "name": "Tibor Pleiss",
-            "pos": 0
+            "name": "普莱斯",
+            "pos": 5
         },
         "team": {
             "id": "1610612762",
@@ -2249,8 +2249,8 @@ var _PlayerCHName = {
     "202355": {
         "player": {
             "id": "202355",
-            "name": "Hassan Whiteside",
-            "pos": 0
+            "name": "怀特塞德",
+            "pos": 5
         },
         "team": {
             "id": "1610612748",
@@ -2260,8 +2260,8 @@ var _PlayerCHName = {
     "202357": {
         "player": {
             "id": "202357",
-            "name": "Nemanja Bjelica",
-            "pos": 0
+            "name": "别利察",
+            "pos": 4
         },
         "team": {
             "id": "1610612750",
@@ -2271,8 +2271,8 @@ var _PlayerCHName = {
     "202362": {
         "player": {
             "id": "202362",
-            "name": "Lance Stephenson",
-            "pos": 0
+            "name": "斯蒂芬森",
+            "pos": 3
         },
         "team": {
             "id": "1610612746",
@@ -2282,8 +2282,8 @@ var _PlayerCHName = {
     "202379": {
         "player": {
             "id": "202379",
-            "name": "Jeremy Evans",
-            "pos": 0
+            "name": "埃文斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612742",
@@ -2293,8 +2293,8 @@ var _PlayerCHName = {
     "202388": {
         "player": {
             "id": "202388",
-            "name": "Donald Sloan",
-            "pos": 0
+            "name": "斯隆",
+            "pos": 1
         },
         "team": {
             "id": "1610612751",
@@ -2304,8 +2304,8 @@ var _PlayerCHName = {
     "202389": {
         "player": {
             "id": "202389",
-            "name": "Timofey Mozgov",
-            "pos": 0
+            "name": "莫兹戈夫",
+            "pos": 5
         },
         "team": {
             "id": "1610612739",
@@ -2315,8 +2315,8 @@ var _PlayerCHName = {
     "202390": {
         "player": {
             "id": "202390",
-            "name": "Gary Neal",
-            "pos": 0
+            "name": "尼尔",
+            "pos": 2
         },
         "team": {
             "id": "1610612764",
@@ -2326,8 +2326,8 @@ var _PlayerCHName = {
     "202391": {
         "player": {
             "id": "202391",
-            "name": "Jeremy Lin",
-            "pos": 0
+            "name": "林书豪",
+            "pos": 1
         },
         "team": {
             "id": "1610612766",
@@ -2337,8 +2337,8 @@ var _PlayerCHName = {
     "202397": {
         "player": {
             "id": "202397",
-            "name": "Ish Smith",
-            "pos": 0
+            "name": "史密斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612740",
@@ -2348,8 +2348,8 @@ var _PlayerCHName = {
     "202407": {
         "player": {
             "id": "202407",
-            "name": "Elijah Millsap",
-            "pos": 0
+            "name": "米尔萨普",
+            "pos": 2
         },
         "team": {
             "id": "1610612762",
@@ -2359,8 +2359,8 @@ var _PlayerCHName = {
     "202498": {
         "player": {
             "id": "202498",
-            "name": "Lance Thomas",
-            "pos": 0
+            "name": "托马斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612752",
@@ -2370,8 +2370,8 @@ var _PlayerCHName = {
     "202682": {
         "player": {
             "id": "202682",
-            "name": "Derrick Williams",
-            "pos": 0
+            "name": "威廉姆斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612752",
@@ -2381,8 +2381,8 @@ var _PlayerCHName = {
     "202683": {
         "player": {
             "id": "202683",
-            "name": "Enes Kanter",
-            "pos": 0
+            "name": "坎特",
+            "pos": 5
         },
         "team": {
             "id": "1610612760",
@@ -2392,8 +2392,8 @@ var _PlayerCHName = {
     "202684": {
         "player": {
             "id": "202684",
-            "name": "Tristan Thompson",
-            "pos": 0
+            "name": "汤普森",
+            "pos": 4
         },
         "team": {
             "id": "1610612739",
@@ -2403,8 +2403,8 @@ var _PlayerCHName = {
     "202685": {
         "player": {
             "id": "202685",
-            "name": "Jonas Valanciunas",
-            "pos": 0
+            "name": "瓦兰丘纳斯",
+            "pos": 5
         },
         "team": {
             "id": "1610612761",
@@ -2414,8 +2414,8 @@ var _PlayerCHName = {
     "202687": {
         "player": {
             "id": "202687",
-            "name": "Bismack Biyombo",
-            "pos": 0
+            "name": "比永博",
+            "pos": 5
         },
         "team": {
             "id": "1610612761",
@@ -2425,8 +2425,8 @@ var _PlayerCHName = {
     "202688": {
         "player": {
             "id": "202688",
-            "name": "Brandon Knight",
-            "pos": 0
+            "name": "奈特",
+            "pos": 2
         },
         "team": {
             "id": "1610612756",
@@ -2436,8 +2436,8 @@ var _PlayerCHName = {
     "202689": {
         "player": {
             "id": "202689",
-            "name": "Kemba Walker",
-            "pos": 0
+            "name": "沃克",
+            "pos": 1
         },
         "team": {
             "id": "1610612766",
@@ -2447,8 +2447,8 @@ var _PlayerCHName = {
     "202690": {
         "player": {
             "id": "202690",
-            "name": "Jimmer Fredette",
-            "pos": 0
+            "name": "弗雷德特",
+            "pos": 2
         },
         "team": {
             "id": "1610612740",
@@ -2458,8 +2458,8 @@ var _PlayerCHName = {
     "202691": {
         "player": {
             "id": "202691",
-            "name": "Klay Thompson",
-            "pos": 0
+            "name": "汤普森",
+            "pos": 2
         },
         "team": {
             "id": "1610612744",
@@ -2469,8 +2469,8 @@ var _PlayerCHName = {
     "202692": {
         "player": {
             "id": "202692",
-            "name": "Alec Burks",
-            "pos": 0
+            "name": "伯克斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612762",
@@ -2480,8 +2480,8 @@ var _PlayerCHName = {
     "202693": {
         "player": {
             "id": "202693",
-            "name": "Markieff Morris",
-            "pos": 0
+            "name": "莫里斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612756",
@@ -2491,8 +2491,8 @@ var _PlayerCHName = {
     "202694": {
         "player": {
             "id": "202694",
-            "name": "Marcus Morris",
-            "pos": 0
+            "name": "莫里斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612765",
@@ -2502,8 +2502,8 @@ var _PlayerCHName = {
     "202695": {
         "player": {
             "id": "202695",
-            "name": "Kawhi Leonard",
-            "pos": 0
+            "name": "莱昂纳德",
+            "pos": 3
         },
         "team": {
             "id": "1610612759",
@@ -2513,8 +2513,8 @@ var _PlayerCHName = {
     "202696": {
         "player": {
             "id": "202696",
-            "name": "Nikola Vucevic",
-            "pos": 0
+            "name": "武切维奇",
+            "pos": 5
         },
         "team": {
             "id": "1610612753",
@@ -2524,8 +2524,8 @@ var _PlayerCHName = {
     "202699": {
         "player": {
             "id": "202699",
-            "name": "Tobias Harris",
-            "pos": 0
+            "name": "哈里斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612753",
@@ -2535,8 +2535,8 @@ var _PlayerCHName = {
     "202702": {
         "player": {
             "id": "202702",
-            "name": "Kenneth Faried",
-            "pos": 0
+            "name": "法里德",
+            "pos": 4
         },
         "team": {
             "id": "1610612743",
@@ -2546,8 +2546,8 @@ var _PlayerCHName = {
     "202703": {
         "player": {
             "id": "202703",
-            "name": "Nikola Mirotic",
-            "pos": 0
+            "name": "米罗蒂奇",
+            "pos": 4
         },
         "team": {
             "id": "1610612741",
@@ -2557,8 +2557,8 @@ var _PlayerCHName = {
     "202704": {
         "player": {
             "id": "202704",
-            "name": "Reggie Jackson",
-            "pos": 0
+            "name": "杰克逊",
+            "pos": 1
         },
         "team": {
             "id": "1610612765",
@@ -2568,8 +2568,8 @@ var _PlayerCHName = {
     "202709": {
         "player": {
             "id": "202709",
-            "name": "Cory Joseph",
-            "pos": 0
+            "name": "约瑟夫",
+            "pos": 1
         },
         "team": {
             "id": "1610612761",
@@ -2579,8 +2579,8 @@ var _PlayerCHName = {
     "202710": {
         "player": {
             "id": "202710",
-            "name": "Jimmy Butler",
-            "pos": 0
+            "name": "巴特勒",
+            "pos": 2
         },
         "team": {
             "id": "1610612741",
@@ -2590,8 +2590,8 @@ var _PlayerCHName = {
     "202711": {
         "player": {
             "id": "202711",
-            "name": "Bojan Bogdanovic",
-            "pos": 0
+            "name": "博格达诺维奇",
+            "pos": 3
         },
         "team": {
             "id": "1610612751",
@@ -2601,8 +2601,8 @@ var _PlayerCHName = {
     "202713": {
         "player": {
             "id": "202713",
-            "name": "Kyle Singler",
-            "pos": 0
+            "name": "辛格勒",
+            "pos": 3
         },
         "team": {
             "id": "1610612760",
@@ -2612,8 +2612,8 @@ var _PlayerCHName = {
     "202714": {
         "player": {
             "id": "202714",
-            "name": "Shelvin Mack",
-            "pos": 0
+            "name": "马克",
+            "pos": 1
         },
         "team": {
             "id": "1610612737",
@@ -2623,8 +2623,8 @@ var _PlayerCHName = {
     "202718": {
         "player": {
             "id": "202718",
-            "name": "Chandler Parsons",
-            "pos": 0
+            "name": "帕森斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612742",
@@ -2634,8 +2634,8 @@ var _PlayerCHName = {
     "202720": {
         "player": {
             "id": "202720",
-            "name": "Jon Leuer",
-            "pos": 0
+            "name": "鲁尔",
+            "pos": 4
         },
         "team": {
             "id": "1610612756",
@@ -2645,8 +2645,8 @@ var _PlayerCHName = {
     "202730": {
         "player": {
             "id": "202730",
-            "name": "Lavoy Allen",
-            "pos": 0
+            "name": "阿伦",
+            "pos": 4
         },
         "team": {
             "id": "1610612754",
@@ -2656,8 +2656,8 @@ var _PlayerCHName = {
     "202734": {
         "player": {
             "id": "202734",
-            "name": "E'Twaun Moore",
-            "pos": 0
+            "name": "摩尔",
+            "pos": 2
         },
         "team": {
             "id": "1610612741",
@@ -2667,8 +2667,8 @@ var _PlayerCHName = {
     "202738": {
         "player": {
             "id": "202738",
-            "name": "Isaiah Thomas",
-            "pos": 0
+            "name": "托马斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612738",
@@ -2678,8 +2678,8 @@ var _PlayerCHName = {
     "203076": {
         "player": {
             "id": "203076",
-            "name": "Anthony Davis",
-            "pos": 0
+            "name": "戴维斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612740",
@@ -2689,8 +2689,8 @@ var _PlayerCHName = {
     "203078": {
         "player": {
             "id": "203078",
-            "name": "Bradley Beal",
-            "pos": 0
+            "name": "比尔",
+            "pos": 2
         },
         "team": {
             "id": "1610612764",
@@ -2700,8 +2700,8 @@ var _PlayerCHName = {
     "203079": {
         "player": {
             "id": "203079",
-            "name": "Dion Waiters",
-            "pos": 0
+            "name": "维特斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612760",
@@ -2711,8 +2711,8 @@ var _PlayerCHName = {
     "203080": {
         "player": {
             "id": "203080",
-            "name": "Thomas Robinson",
-            "pos": 0
+            "name": "罗宾逊",
+            "pos": 4
         },
         "team": {
             "id": "1610612751",
@@ -2722,8 +2722,8 @@ var _PlayerCHName = {
     "203081": {
         "player": {
             "id": "203081",
-            "name": "Damian Lillard",
-            "pos": 0
+            "name": "利拉德",
+            "pos": 1
         },
         "team": {
             "id": "1610612757",
@@ -2733,8 +2733,8 @@ var _PlayerCHName = {
     "203082": {
         "player": {
             "id": "203082",
-            "name": "Terrence Ross",
-            "pos": 0
+            "name": "罗斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612761",
@@ -2744,8 +2744,8 @@ var _PlayerCHName = {
     "203083": {
         "player": {
             "id": "203083",
-            "name": "Andre Drummond",
-            "pos": 0
+            "name": "德拉蒙德",
+            "pos": 5
         },
         "team": {
             "id": "1610612765",
@@ -2755,8 +2755,8 @@ var _PlayerCHName = {
     "203084": {
         "player": {
             "id": "203084",
-            "name": "Harrison Barnes",
-            "pos": 0
+            "name": "巴恩斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612744",
@@ -2766,8 +2766,8 @@ var _PlayerCHName = {
     "203085": {
         "player": {
             "id": "203085",
-            "name": "Austin Rivers",
-            "pos": 0
+            "name": "里弗斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612746",
@@ -2777,8 +2777,8 @@ var _PlayerCHName = {
     "203086": {
         "player": {
             "id": "203086",
-            "name": "Meyers Leonard",
-            "pos": 0
+            "name": "莱昂纳德",
+            "pos": 4
         },
         "team": {
             "id": "1610612757",
@@ -2788,8 +2788,8 @@ var _PlayerCHName = {
     "203087": {
         "player": {
             "id": "203087",
-            "name": "Jeremy Lamb",
-            "pos": 0
+            "name": "兰姆",
+            "pos": 2
         },
         "team": {
             "id": "1610612766",
@@ -2799,8 +2799,8 @@ var _PlayerCHName = {
     "203089": {
         "player": {
             "id": "203089",
-            "name": "John Henson",
-            "pos": 0
+            "name": "亨森",
+            "pos": 5
         },
         "team": {
             "id": "1610612749",
@@ -2810,8 +2810,8 @@ var _PlayerCHName = {
     "203090": {
         "player": {
             "id": "203090",
-            "name": "Maurice Harkless",
-            "pos": 0
+            "name": "哈克莱斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612757",
@@ -2821,8 +2821,8 @@ var _PlayerCHName = {
     "203092": {
         "player": {
             "id": "203092",
-            "name": "Tyler Zeller",
-            "pos": 0
+            "name": "泽勒",
+            "pos": 5
         },
         "team": {
             "id": "1610612738",
@@ -2832,8 +2832,8 @@ var _PlayerCHName = {
     "203093": {
         "player": {
             "id": "203093",
-            "name": "Terrence Jones",
-            "pos": 0
+            "name": "琼斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612745",
@@ -2843,8 +2843,8 @@ var _PlayerCHName = {
     "203094": {
         "player": {
             "id": "203094",
-            "name": "Andrew Nicholson",
-            "pos": 0
+            "name": "尼科尔森",
+            "pos": 4
         },
         "team": {
             "id": "1610612753",
@@ -2854,8 +2854,8 @@ var _PlayerCHName = {
     "203095": {
         "player": {
             "id": "203095",
-            "name": "Evan Fournier",
-            "pos": 0
+            "name": "福尼埃",
+            "pos": 3
         },
         "team": {
             "id": "1610612753",
@@ -2865,8 +2865,8 @@ var _PlayerCHName = {
     "203096": {
         "player": {
             "id": "203096",
-            "name": "Jared Sullinger",
-            "pos": 0
+            "name": "萨林杰",
+            "pos": 4
         },
         "team": {
             "id": "1610612738",
@@ -2876,8 +2876,8 @@ var _PlayerCHName = {
     "203098": {
         "player": {
             "id": "203098",
-            "name": "John Jenkins",
-            "pos": 0
+            "name": "詹金斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612742",
@@ -2887,8 +2887,8 @@ var _PlayerCHName = {
     "203099": {
         "player": {
             "id": "203099",
-            "name": "Jared Cunningham",
-            "pos": 0
+            "name": "康宁汉姆",
+            "pos": 2
         },
         "team": {
             "id": "1610612739",
@@ -2898,8 +2898,8 @@ var _PlayerCHName = {
     "203101": {
         "player": {
             "id": "203101",
-            "name": "Miles Plumlee",
-            "pos": 0
+            "name": "普兰姆利",
+            "pos": 5
         },
         "team": {
             "id": "1610612749",
@@ -2909,8 +2909,8 @@ var _PlayerCHName = {
     "203105": {
         "player": {
             "id": "203105",
-            "name": "Festus Ezeli",
-            "pos": 0
+            "name": "艾泽利",
+            "pos": 5
         },
         "team": {
             "id": "1610612744",
@@ -2920,8 +2920,8 @@ var _PlayerCHName = {
     "203109": {
         "player": {
             "id": "203109",
-            "name": "Jae Crowder",
-            "pos": 0
+            "name": "克劳德",
+            "pos": 3
         },
         "team": {
             "id": "1610612738",
@@ -2931,8 +2931,8 @@ var _PlayerCHName = {
     "203110": {
         "player": {
             "id": "203110",
-            "name": "Draymond Green",
-            "pos": 0
+            "name": "格林",
+            "pos": 4
         },
         "team": {
             "id": "1610612744",
@@ -2942,8 +2942,8 @@ var _PlayerCHName = {
     "203112": {
         "player": {
             "id": "203112",
-            "name": "Quincy Acy",
-            "pos": 0
+            "name": "阿西",
+            "pos": 4
         },
         "team": {
             "id": "1610612758",
@@ -2953,8 +2953,8 @@ var _PlayerCHName = {
     "203114": {
         "player": {
             "id": "203114",
-            "name": "Khris Middleton",
-            "pos": 0
+            "name": "米德尔顿",
+            "pos": 2
         },
         "team": {
             "id": "1610612749",
@@ -2964,8 +2964,8 @@ var _PlayerCHName = {
     "203115": {
         "player": {
             "id": "203115",
-            "name": "Will Barton",
-            "pos": 0
+            "name": "巴顿",
+            "pos": 2
         },
         "team": {
             "id": "1610612743",
@@ -2975,8 +2975,8 @@ var _PlayerCHName = {
     "203118": {
         "player": {
             "id": "203118",
-            "name": "Mike Scott",
-            "pos": 0
+            "name": "斯科特",
+            "pos": 4
         },
         "team": {
             "id": "1610612737",
@@ -2986,8 +2986,8 @@ var _PlayerCHName = {
     "203123": {
         "player": {
             "id": "203123",
-            "name": "Kostas Papanikolaou",
-            "pos": 0
+            "name": "帕帕尼克劳",
+            "pos": 3
         },
         "team": {
             "id": "1610612743",
@@ -2997,8 +2997,8 @@ var _PlayerCHName = {
     "203124": {
         "player": {
             "id": "203124",
-            "name": "Kyle O'Quinn",
-            "pos": 0
+            "name": "奥奎因",
+            "pos": 4
         },
         "team": {
             "id": "1610612752",
@@ -3008,8 +3008,8 @@ var _PlayerCHName = {
     "203135": {
         "player": {
             "id": "203135",
-            "name": "Robert Sacre",
-            "pos": 0
+            "name": "萨克雷",
+            "pos": 5
         },
         "team": {
             "id": "1610612747",
@@ -3019,8 +3019,8 @@ var _PlayerCHName = {
     "203138": {
         "player": {
             "id": "203138",
-            "name": "Hollis Thompson",
-            "pos": 0
+            "name": "汤普森",
+            "pos": 2
         },
         "team": {
             "id": "1610612755",
@@ -3030,8 +3030,8 @@ var _PlayerCHName = {
     "203141": {
         "player": {
             "id": "203141",
-            "name": "Mirza Teletovic",
-            "pos": 0
+            "name": "泰勒托维奇",
+            "pos": 4
         },
         "team": {
             "id": "1610612756",
@@ -3041,8 +3041,8 @@ var _PlayerCHName = {
     "203142": {
         "player": {
             "id": "203142",
-            "name": "Chris Copeland",
-            "pos": 0
+            "name": "科普兰德",
+            "pos": 4
         },
         "team": {
             "id": "1610612749",
@@ -3052,8 +3052,8 @@ var _PlayerCHName = {
     "203143": {
         "player": {
             "id": "203143",
-            "name": "Pablo Prigioni",
-            "pos": 0
+            "name": "普里吉奥尼",
+            "pos": 1
         },
         "team": {
             "id": "1610612746",
@@ -3063,8 +3063,8 @@ var _PlayerCHName = {
     "203145": {
         "player": {
             "id": "203145",
-            "name": "Kent Bazemore",
-            "pos": 0
+            "name": "贝泽摩尔",
+            "pos": 3
         },
         "team": {
             "id": "1610612737",
@@ -3074,8 +3074,8 @@ var _PlayerCHName = {
     "203148": {
         "player": {
             "id": "203148",
-            "name": "Brian Roberts",
-            "pos": 0
+            "name": "罗伯茨",
+            "pos": 1
         },
         "team": {
             "id": "1610612766",
@@ -3085,8 +3085,8 @@ var _PlayerCHName = {
     "203187": {
         "player": {
             "id": "203187",
-            "name": "Chris Johnson",
-            "pos": 0
+            "name": "约翰逊",
+            "pos": 3
         },
         "team": {
             "id": "1610612762",
@@ -3096,8 +3096,8 @@ var _PlayerCHName = {
     "203200": {
         "player": {
             "id": "203200",
-            "name": "Justin Holiday",
-            "pos": 0
+            "name": "霍勒迪",
+            "pos": 2
         },
         "team": {
             "id": "1610612737",
@@ -3107,8 +3107,8 @@ var _PlayerCHName = {
     "203210": {
         "player": {
             "id": "203210",
-            "name": "JaMychal Green",
-            "pos": 0
+            "name": "Ja.格林",
+            "pos": 4
         },
         "team": {
             "id": "1610612763",
@@ -3118,8 +3118,8 @@ var _PlayerCHName = {
     "203382": {
         "player": {
             "id": "203382",
-            "name": "Aron Baynes",
-            "pos": 0
+            "name": "贝恩斯",
+            "pos": 5
         },
         "team": {
             "id": "1610612765",
@@ -3129,8 +3129,8 @@ var _PlayerCHName = {
     "203457": {
         "player": {
             "id": "203457",
-            "name": "Nerlens Noel",
-            "pos": 0
+            "name": "诺埃尔",
+            "pos": 4
         },
         "team": {
             "id": "1610612755",
@@ -3140,8 +3140,8 @@ var _PlayerCHName = {
     "203458": {
         "player": {
             "id": "203458",
-            "name": "Alex Len",
-            "pos": 0
+            "name": "伦恩",
+            "pos": 5
         },
         "team": {
             "id": "1610612756",
@@ -3151,8 +3151,8 @@ var _PlayerCHName = {
     "203459": {
         "player": {
             "id": "203459",
-            "name": "Allen Crabbe",
-            "pos": 0
+            "name": "克拉比",
+            "pos": 2
         },
         "team": {
             "id": "1610612757",
@@ -3162,8 +3162,8 @@ var _PlayerCHName = {
     "203460": {
         "player": {
             "id": "203460",
-            "name": "Andre Roberson",
-            "pos": 0
+            "name": "罗伯森",
+            "pos": 2
         },
         "team": {
             "id": "1610612760",
@@ -3173,8 +3173,8 @@ var _PlayerCHName = {
     "203461": {
         "player": {
             "id": "203461",
-            "name": "Anthony Bennett",
-            "pos": 0
+            "name": "本内特",
+            "pos": 4
         },
         "team": {
             "id": "1610612761",
@@ -3184,8 +3184,8 @@ var _PlayerCHName = {
     "203462": {
         "player": {
             "id": "203462",
-            "name": "Archie Goodwin",
-            "pos": 0
+            "name": "古德温",
+            "pos": 2
         },
         "team": {
             "id": "1610612756",
@@ -3195,8 +3195,8 @@ var _PlayerCHName = {
     "203463": {
         "player": {
             "id": "203463",
-            "name": "Ben McLemore",
-            "pos": 0
+            "name": "迈克勒摩",
+            "pos": 2
         },
         "team": {
             "id": "1610612758",
@@ -3206,8 +3206,8 @@ var _PlayerCHName = {
     "203468": {
         "player": {
             "id": "203468",
-            "name": "CJ McCollum",
-            "pos": 0
+            "name": "迈克伦姆",
+            "pos": 2
         },
         "team": {
             "id": "1610612757",
@@ -3217,8 +3217,8 @@ var _PlayerCHName = {
     "203469": {
         "player": {
             "id": "203469",
-            "name": "Cody Zeller",
-            "pos": 0
+            "name": "泽勒",
+            "pos": 5
         },
         "team": {
             "id": "1610612766",
@@ -3228,8 +3228,8 @@ var _PlayerCHName = {
     "203471": {
         "player": {
             "id": "203471",
-            "name": "Dennis Schroder",
-            "pos": 0
+            "name": "施罗德",
+            "pos": 1
         },
         "team": {
             "id": "1610612737",
@@ -3239,8 +3239,8 @@ var _PlayerCHName = {
     "203473": {
         "player": {
             "id": "203473",
-            "name": "Dewayne Dedmon",
-            "pos": 0
+            "name": "戴德蒙",
+            "pos": 5
         },
         "team": {
             "id": "1610612753",
@@ -3250,8 +3250,8 @@ var _PlayerCHName = {
     "203475": {
         "player": {
             "id": "203475",
-            "name": "Erick Green",
-            "pos": 0
+            "name": "格林",
+            "pos": 1
         },
         "team": {
             "id": "1610612743",
@@ -3261,8 +3261,8 @@ var _PlayerCHName = {
     "203476": {
         "player": {
             "id": "203476",
-            "name": "Gorgui Dieng",
-            "pos": 0
+            "name": "吉恩",
+            "pos": 5
         },
         "team": {
             "id": "1610612750",
@@ -3272,8 +3272,8 @@ var _PlayerCHName = {
     "203477": {
         "player": {
             "id": "203477",
-            "name": "Isaiah Canaan",
-            "pos": 0
+            "name": "坎南",
+            "pos": 1
         },
         "team": {
             "id": "1610612755",
@@ -3283,8 +3283,8 @@ var _PlayerCHName = {
     "203481": {
         "player": {
             "id": "203481",
-            "name": "Jeff Withey",
-            "pos": 0
+            "name": "维西",
+            "pos": 5
         },
         "team": {
             "id": "1610612762",
@@ -3294,8 +3294,8 @@ var _PlayerCHName = {
     "203482": {
         "player": {
             "id": "203482",
-            "name": "Kelly Olynyk",
-            "pos": 0
+            "name": "奥利尼克",
+            "pos": 5
         },
         "team": {
             "id": "1610612738",
@@ -3305,8 +3305,8 @@ var _PlayerCHName = {
     "203484": {
         "player": {
             "id": "203484",
-            "name": "Kentavious Caldwell-Pope",
-            "pos": 0
+            "name": "波普",
+            "pos": 2
         },
         "team": {
             "id": "1610612765",
@@ -3316,8 +3316,8 @@ var _PlayerCHName = {
     "203486": {
         "player": {
             "id": "203486",
-            "name": "Mason Plumlee",
-            "pos": 0
+            "name": "普兰姆利",
+            "pos": 5
         },
         "team": {
             "id": "1610612757",
@@ -3327,8 +3327,8 @@ var _PlayerCHName = {
     "203487": {
         "player": {
             "id": "203487",
-            "name": "Michael Carter-Williams",
-            "pos": 0
+            "name": "威廉姆斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612749",
@@ -3338,8 +3338,8 @@ var _PlayerCHName = {
     "203488": {
         "player": {
             "id": "203488",
-            "name": "Mike Muscala",
-            "pos": 0
+            "name": "穆斯卡拉",
+            "pos": 4
         },
         "team": {
             "id": "1610612737",
@@ -3349,8 +3349,8 @@ var _PlayerCHName = {
     "203490": {
         "player": {
             "id": "203490",
-            "name": "Otto Porter",
-            "pos": 0
+            "name": "波特",
+            "pos": 3
         },
         "team": {
             "id": "1610612764",
@@ -3360,8 +3360,8 @@ var _PlayerCHName = {
     "203492": {
         "player": {
             "id": "203492",
-            "name": "Ray McCallum",
-            "pos": 0
+            "name": "迈卡伦姆",
+            "pos": 1
         },
         "team": {
             "id": "1610612759",
@@ -3371,8 +3371,8 @@ var _PlayerCHName = {
     "203493": {
         "player": {
             "id": "203493",
-            "name": "Reggie Bullock",
-            "pos": 0
+            "name": "巴洛克",
+            "pos": 3
         },
         "team": {
             "id": "1610612765",
@@ -3382,8 +3382,8 @@ var _PlayerCHName = {
     "203496": {
         "player": {
             "id": "203496",
-            "name": "Robert Covington",
-            "pos": 0
+            "name": "考文顿",
+            "pos": 3
         },
         "team": {
             "id": "1610612755",
@@ -3393,8 +3393,8 @@ var _PlayerCHName = {
     "203497": {
         "player": {
             "id": "203497",
-            "name": "Rudy Gobert",
-            "pos": 0
+            "name": "戈贝尔",
+            "pos": 5
         },
         "team": {
             "id": "1610612762",
@@ -3404,8 +3404,8 @@ var _PlayerCHName = {
     "203498": {
         "player": {
             "id": "203498",
-            "name": "Shabazz Muhammad",
-            "pos": 0
+            "name": "穆罕默德",
+            "pos": 2
         },
         "team": {
             "id": "1610612750",
@@ -3415,8 +3415,8 @@ var _PlayerCHName = {
     "203499": {
         "player": {
             "id": "203499",
-            "name": "Shane Larkin",
-            "pos": 0
+            "name": "拉金",
+            "pos": 1
         },
         "team": {
             "id": "1610612751",
@@ -3426,8 +3426,8 @@ var _PlayerCHName = {
     "203500": {
         "player": {
             "id": "203500",
-            "name": "Steven Adams",
-            "pos": 0
+            "name": "亚当斯",
+            "pos": 5
         },
         "team": {
             "id": "1610612760",
@@ -3437,8 +3437,8 @@ var _PlayerCHName = {
     "203501": {
         "player": {
             "id": "203501",
-            "name": "Tim Hardaway Jr.",
-            "pos": 0
+            "name": "哈达威",
+            "pos": 2
         },
         "team": {
             "id": "1610612737",
@@ -3448,8 +3448,8 @@ var _PlayerCHName = {
     "203503": {
         "player": {
             "id": "203503",
-            "name": "Tony Snell",
-            "pos": 0
+            "name": "斯内尔",
+            "pos": 3
         },
         "team": {
             "id": "1610612741",
@@ -3459,8 +3459,8 @@ var _PlayerCHName = {
     "203504": {
         "player": {
             "id": "203504",
-            "name": "Trey Burke",
-            "pos": 0
+            "name": "伯克",
+            "pos": 1
         },
         "team": {
             "id": "1610612762",
@@ -3470,8 +3470,8 @@ var _PlayerCHName = {
     "203506": {
         "player": {
             "id": "203506",
-            "name": "Victor Oladipo",
-            "pos": 0
+            "name": "奥拉迪波",
+            "pos": 2
         },
         "team": {
             "id": "1610612753",
@@ -3481,8 +3481,8 @@ var _PlayerCHName = {
     "203507": {
         "player": {
             "id": "203507",
-            "name": "Giannis Antetokounmpo",
-            "pos": 0
+            "name": "阿德托孔博",
+            "pos": 3
         },
         "team": {
             "id": "1610612749",
@@ -3492,8 +3492,8 @@ var _PlayerCHName = {
     "203508": {
         "player": {
             "id": "203508",
-            "name": "Sergey Karasev",
-            "pos": 0
+            "name": "卡雷塞夫",
+            "pos": 3
         },
         "team": {
             "id": "1610612751",
@@ -3503,8 +3503,8 @@ var _PlayerCHName = {
     "203512": {
         "player": {
             "id": "203512",
-            "name": "Lucas Nogueira",
-            "pos": 0
+            "name": "诺圭拉",
+            "pos": 5
         },
         "team": {
             "id": "1610612761",
@@ -3514,8 +3514,8 @@ var _PlayerCHName = {
     "203515": {
         "player": {
             "id": "203515",
-            "name": "Phil Pressey",
-            "pos": 0
+            "name": "普雷西",
+            "pos": 1
         },
         "team": {
             "id": "1610612755",
@@ -3525,8 +3525,8 @@ var _PlayerCHName = {
     "203516": {
         "player": {
             "id": "203516",
-            "name": "James Ennis",
-            "pos": 0
+            "name": "恩尼斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612763",
@@ -3536,8 +3536,8 @@ var _PlayerCHName = {
     "203521": {
         "player": {
             "id": "203521",
-            "name": "Matthew Dellavedova",
-            "pos": 0
+            "name": "德拉维多瓦",
+            "pos": 2
         },
         "team": {
             "id": "1610612739",
@@ -3547,8 +3547,8 @@ var _PlayerCHName = {
     "203524": {
         "player": {
             "id": "203524",
-            "name": "Solomon Hill",
-            "pos": 0
+            "name": "S.希尔",
+            "pos": 3
         },
         "team": {
             "id": "1610612754",
@@ -3558,8 +3558,8 @@ var _PlayerCHName = {
     "203526": {
         "player": {
             "id": "203526",
-            "name": "Raul Neto",
-            "pos": 0
+            "name": "内托",
+            "pos": 1
         },
         "team": {
             "id": "1610612762",
@@ -3569,8 +3569,8 @@ var _PlayerCHName = {
     "203527": {
         "player": {
             "id": "203527",
-            "name": "Ryan Kelly",
-            "pos": 0
+            "name": "凯利",
+            "pos": 4
         },
         "team": {
             "id": "1610612747",
@@ -3580,8 +3580,8 @@ var _PlayerCHName = {
     "203530": {
         "player": {
             "id": "203530",
-            "name": "Joffrey Lauvergne",
-            "pos": 0
+            "name": "拉弗恩耶",
+            "pos": 5
         },
         "team": {
             "id": "1610612743",
@@ -3591,8 +3591,8 @@ var _PlayerCHName = {
     "203546": {
         "player": {
             "id": "203546",
-            "name": "Ian Clark",
-            "pos": 0
+            "name": "克拉克",
+            "pos": 2
         },
         "team": {
             "id": "1610612744",
@@ -3602,8 +3602,8 @@ var _PlayerCHName = {
     "203552": {
         "player": {
             "id": "203552",
-            "name": "Seth Curry",
-            "pos": 0
+            "name": "库里",
+            "pos": 1
         },
         "team": {
             "id": "1610612758",
@@ -3613,8 +3613,8 @@ var _PlayerCHName = {
     "203584": {
         "player": {
             "id": "203584",
-            "name": "Troy Daniels",
-            "pos": 0
+            "name": "丹尼尔斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612766",
@@ -3624,8 +3624,8 @@ var _PlayerCHName = {
     "203613": {
         "player": {
             "id": "203613",
-            "name": "Jonathon Simmons",
-            "pos": 0
+            "name": "西蒙斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612759",
@@ -3635,8 +3635,8 @@ var _PlayerCHName = {
     "203798": {
         "player": {
             "id": "203798",
-            "name": "PJ Hairston",
-            "pos": 0
+            "name": "海尔斯顿",
+            "pos": 3
         },
         "team": {
             "id": "1610612766",
@@ -3646,8 +3646,8 @@ var _PlayerCHName = {
     "203893": {
         "player": {
             "id": "203893",
-            "name": "Russ Smith",
-            "pos": 0
+            "name": "史密斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612763",
@@ -3657,8 +3657,8 @@ var _PlayerCHName = {
     "203894": {
         "player": {
             "id": "203894",
-            "name": "Shabazz Napier",
-            "pos": 0
+            "name": "内皮尔",
+            "pos": 1
         },
         "team": {
             "id": "1610612753",
@@ -3668,8 +3668,8 @@ var _PlayerCHName = {
     "203897": {
         "player": {
             "id": "203897",
-            "name": "Zach LaVine",
-            "pos": 0
+            "name": "拉文",
+            "pos": 1
         },
         "team": {
             "id": "1610612750",
@@ -3679,8 +3679,8 @@ var _PlayerCHName = {
     "203898": {
         "player": {
             "id": "203898",
-            "name": "Tyler Ennis",
-            "pos": 0
+            "name": "恩尼斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612749",
@@ -3690,8 +3690,8 @@ var _PlayerCHName = {
     "203900": {
         "player": {
             "id": "203900",
-            "name": "Markel Brown",
-            "pos": 0
+            "name": "布朗",
+            "pos": 2
         },
         "team": {
             "id": "1610612751",
@@ -3701,8 +3701,8 @@ var _PlayerCHName = {
     "203901": {
         "player": {
             "id": "203901",
-            "name": "Elfrid Payton",
-            "pos": 0
+            "name": "佩顿",
+            "pos": 1
         },
         "team": {
             "id": "1610612753",
@@ -3712,8 +3712,8 @@ var _PlayerCHName = {
     "203903": {
         "player": {
             "id": "203903",
-            "name": "Jordan Clarkson",
-            "pos": 0
+            "name": "克拉克森",
+            "pos": 2
         },
         "team": {
             "id": "1610612747",
@@ -3723,8 +3723,8 @@ var _PlayerCHName = {
     "203906": {
         "player": {
             "id": "203906",
-            "name": "Devyn Marble",
-            "pos": 0
+            "name": "马布尔",
+            "pos": 2
         },
         "team": {
             "id": "1610612753",
@@ -3734,8 +3734,8 @@ var _PlayerCHName = {
     "203909": {
         "player": {
             "id": "203909",
-            "name": "KJ McDaniels",
-            "pos": 0
+            "name": "迈克丹尼尔斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612745",
@@ -3745,8 +3745,8 @@ var _PlayerCHName = {
     "203914": {
         "player": {
             "id": "203914",
-            "name": "Gary Harris",
-            "pos": 0
+            "name": "哈里斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612743",
@@ -3756,8 +3756,8 @@ var _PlayerCHName = {
     "203915": {
         "player": {
             "id": "203915",
-            "name": "Spencer Dinwiddie",
-            "pos": 0
+            "name": "丁维迪",
+            "pos": 1
         },
         "team": {
             "id": "1610612765",
@@ -3767,8 +3767,8 @@ var _PlayerCHName = {
     "203917": {
         "player": {
             "id": "203917",
-            "name": "Nik Stauskas",
-            "pos": 0
+            "name": "斯陶斯卡斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612755",
@@ -3778,8 +3778,8 @@ var _PlayerCHName = {
     "203918": {
         "player": {
             "id": "203918",
-            "name": "Rodney Hood",
-            "pos": 0
+            "name": "胡德",
+            "pos": 2
         },
         "team": {
             "id": "1610612762",
@@ -3789,8 +3789,8 @@ var _PlayerCHName = {
     "203919": {
         "player": {
             "id": "203919",
-            "name": "Jordan Adams",
-            "pos": 0
+            "name": "亚当斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612763",
@@ -3800,8 +3800,8 @@ var _PlayerCHName = {
     "203921": {
         "player": {
             "id": "203921",
-            "name": "Cleanthony Early",
-            "pos": 0
+            "name": "厄利",
+            "pos": 3
         },
         "team": {
             "id": "1610612752",
@@ -3811,8 +3811,8 @@ var _PlayerCHName = {
     "203922": {
         "player": {
             "id": "203922",
-            "name": "Glenn Robinson",
-            "pos": 0
+            "name": "罗宾逊",
+            "pos": 4
         },
         "team": {
             "id": "1610612754",
@@ -3822,8 +3822,8 @@ var _PlayerCHName = {
     "203923": {
         "player": {
             "id": "203923",
-            "name": "James Young",
-            "pos": 0
+            "name": "杨",
+            "pos": 2
         },
         "team": {
             "id": "1610612738",
@@ -3833,8 +3833,8 @@ var _PlayerCHName = {
     "203924": {
         "player": {
             "id": "203924",
-            "name": "Jerami Grant",
-            "pos": 0
+            "name": "格兰特",
+            "pos": 3
         },
         "team": {
             "id": "1610612755",
@@ -3844,8 +3844,8 @@ var _PlayerCHName = {
     "203925": {
         "player": {
             "id": "203925",
-            "name": "Joe Harris",
-            "pos": 0
+            "name": "哈里斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612739",
@@ -3855,8 +3855,8 @@ var _PlayerCHName = {
     "203926": {
         "player": {
             "id": "203926",
-            "name": "Doug McDermott",
-            "pos": 0
+            "name": "迈克德莫特",
+            "pos": 3
         },
         "team": {
             "id": "1610612741",
@@ -3866,8 +3866,8 @@ var _PlayerCHName = {
     "203928": {
         "player": {
             "id": "203928",
-            "name": "Cory Jefferson",
-            "pos": 0
+            "name": "杰弗森",
+            "pos": 4
         },
         "team": {
             "id": "1610612756",
@@ -3877,8 +3877,8 @@ var _PlayerCHName = {
     "203932": {
         "player": {
             "id": "203932",
-            "name": "Aaron Gordon",
-            "pos": 0
+            "name": "戈登",
+            "pos": 4
         },
         "team": {
             "id": "1610612753",
@@ -3888,8 +3888,8 @@ var _PlayerCHName = {
     "203933": {
         "player": {
             "id": "203933",
-            "name": "TJ Warren",
-            "pos": 0
+            "name": "瓦伦",
+            "pos": 3
         },
         "team": {
             "id": "1610612756",
@@ -3899,8 +3899,8 @@ var _PlayerCHName = {
     "203934": {
         "player": {
             "id": "203934",
-            "name": "Lamar Patterson",
-            "pos": 0
+            "name": "帕特森",
+            "pos": 2
         },
         "team": {
             "id": "1610612737",
@@ -3910,8 +3910,8 @@ var _PlayerCHName = {
     "203935": {
         "player": {
             "id": "203935",
-            "name": "Marcus Smart",
-            "pos": 0
+            "name": "斯玛特",
+            "pos": 1
         },
         "team": {
             "id": "1610612738",
@@ -3921,8 +3921,8 @@ var _PlayerCHName = {
     "203937": {
         "player": {
             "id": "203937",
-            "name": "Kyle Anderson",
-            "pos": 0
+            "name": "安德森",
+            "pos": 3
         },
         "team": {
             "id": "1610612759",
@@ -3932,8 +3932,8 @@ var _PlayerCHName = {
     "203939": {
         "player": {
             "id": "203939",
-            "name": "Dwight Powell",
-            "pos": 0
+            "name": "鲍威尔",
+            "pos": 4
         },
         "team": {
             "id": "1610612742",
@@ -3943,8 +3943,8 @@ var _PlayerCHName = {
     "203940": {
         "player": {
             "id": "203940",
-            "name": "Adreian Payne",
-            "pos": 0
+            "name": "佩恩",
+            "pos": 4
         },
         "team": {
             "id": "1610612750",
@@ -3954,8 +3954,8 @@ var _PlayerCHName = {
     "203943": {
         "player": {
             "id": "203943",
-            "name": "Noah Vonleh",
-            "pos": 0
+            "name": "冯莱",
+            "pos": 4
         },
         "team": {
             "id": "1610612757",
@@ -3965,8 +3965,8 @@ var _PlayerCHName = {
     "203944": {
         "player": {
             "id": "203944",
-            "name": "Julius Randle",
-            "pos": 0
+            "name": "兰德尔",
+            "pos": 4
         },
         "team": {
             "id": "1610612747",
@@ -3976,8 +3976,8 @@ var _PlayerCHName = {
     "203946": {
         "player": {
             "id": "203946",
-            "name": "Cameron Bairstow",
-            "pos": 0
+            "name": "贝尔斯托",
+            "pos": 4
         },
         "team": {
             "id": "1610612741",
@@ -3987,8 +3987,8 @@ var _PlayerCHName = {
     "203948": {
         "player": {
             "id": "203948",
-            "name": "Johnny O'Bryant",
-            "pos": 0
+            "name": "奥布莱恩特",
+            "pos": 4
         },
         "team": {
             "id": "1610612749",
@@ -3998,8 +3998,8 @@ var _PlayerCHName = {
     "203949": {
         "player": {
             "id": "203949",
-            "name": "James Michael McAdoo",
-            "pos": 0
+            "name": "麦卡杜",
+            "pos": 4
         },
         "team": {
             "id": "1610612744",
@@ -4009,8 +4009,8 @@ var _PlayerCHName = {
     "203950": {
         "player": {
             "id": "203950",
-            "name": "Jarnell Stokes",
-            "pos": 0
+            "name": "斯托克斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612748",
@@ -4020,8 +4020,8 @@ var _PlayerCHName = {
     "203952": {
         "player": {
             "id": "203952",
-            "name": "Andrew Wiggins",
-            "pos": 0
+            "name": "维金斯",
+            "pos": 2
         },
         "team": {
             "id": "1610612750",
@@ -4031,8 +4031,8 @@ var _PlayerCHName = {
     "203953": {
         "player": {
             "id": "203953",
-            "name": "Jabari Parker",
-            "pos": 0
+            "name": "帕克",
+            "pos": 4
         },
         "team": {
             "id": "1610612749",
@@ -4042,8 +4042,8 @@ var _PlayerCHName = {
     "203956": {
         "player": {
             "id": "203956",
-            "name": "Mitch McGary",
-            "pos": 0
+            "name": "迈克加里",
+            "pos": 4
         },
         "team": {
             "id": "1610612760",
@@ -4053,8 +4053,8 @@ var _PlayerCHName = {
     "203960": {
         "player": {
             "id": "203960",
-            "name": "JaKarr Sampson",
-            "pos": 0
+            "name": "桑普森",
+            "pos": 3
         },
         "team": {
             "id": "1610612755",
@@ -4064,8 +4064,8 @@ var _PlayerCHName = {
     "203961": {
         "player": {
             "id": "203961",
-            "name": "Eric Moreland",
-            "pos": 0
+            "name": "莫尔兰德",
+            "pos": 4
         },
         "team": {
             "id": "1610612758",
@@ -4075,8 +4075,8 @@ var _PlayerCHName = {
     "203963": {
         "player": {
             "id": "203963",
-            "name": "Shayne Whittington",
-            "pos": 0
+            "name": "威汀顿",
+            "pos": 4
         },
         "team": {
             "id": "1610612754",
@@ -4086,8 +4086,8 @@ var _PlayerCHName = {
     "203991": {
         "player": {
             "id": "203991",
-            "name": "Clint Capela",
-            "pos": 0
+            "name": "卡佩拉",
+            "pos": 5
         },
         "team": {
             "id": "1610612745",
@@ -4097,8 +4097,8 @@ var _PlayerCHName = {
     "203996": {
         "player": {
             "id": "203996",
-            "name": "Damien Inglis",
-            "pos": 0
+            "name": "因格里斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612749",
@@ -4108,8 +4108,8 @@ var _PlayerCHName = {
     "203998": {
         "player": {
             "id": "203998",
-            "name": "Bruno Caboclo",
-            "pos": 0
+            "name": "卡波科洛",
+            "pos": 3
         },
         "team": {
             "id": "1610612761",
@@ -4119,8 +4119,8 @@ var _PlayerCHName = {
     "203999": {
         "player": {
             "id": "203999",
-            "name": "Nikola Jokic",
-            "pos": 0
+            "name": "约基奇",
+            "pos": 5
         },
         "team": {
             "id": "1610612743",
@@ -4130,8 +4130,8 @@ var _PlayerCHName = {
     "204001": {
         "player": {
             "id": "204001",
-            "name": "Kristaps Porzingis",
-            "pos": 0
+            "name": "波尔津齐斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612752",
@@ -4141,8 +4141,8 @@ var _PlayerCHName = {
     "204002": {
         "player": {
             "id": "204002",
-            "name": "Walter Tavares",
-            "pos": 0
+            "name": "塔瓦雷斯",
+            "pos": 5
         },
         "team": {
             "id": "1610612737",
@@ -4152,8 +4152,8 @@ var _PlayerCHName = {
     "204014": {
         "player": {
             "id": "204014",
-            "name": "Damjan Rudez",
-            "pos": 0
+            "name": "鲁德兹",
+            "pos": 3
         },
         "team": {
             "id": "1610612750",
@@ -4163,8 +4163,8 @@ var _PlayerCHName = {
     "204020": {
         "player": {
             "id": "204020",
-            "name": "Tyler Johnson",
-            "pos": 0
+            "name": "约翰逊",
+            "pos": 2
         },
         "team": {
             "id": "1610612748",
@@ -4174,8 +4174,8 @@ var _PlayerCHName = {
     "204025": {
         "player": {
             "id": "204025",
-            "name": "Tim Frazier",
-            "pos": 0
+            "name": "弗雷泽",
+            "pos": 1
         },
         "team": {
             "id": "1610612757",
@@ -4185,8 +4185,8 @@ var _PlayerCHName = {
     "204028": {
         "player": {
             "id": "204028",
-            "name": "Tarik Black",
-            "pos": 0
+            "name": "布莱克",
+            "pos": 5
         },
         "team": {
             "id": "1610612747",
@@ -4196,8 +4196,8 @@ var _PlayerCHName = {
     "204038": {
         "player": {
             "id": "204038",
-            "name": "Langston Galloway",
-            "pos": 0
+            "name": "加洛韦",
+            "pos": 1
         },
         "team": {
             "id": "1610612752",
@@ -4207,8 +4207,8 @@ var _PlayerCHName = {
     "204060": {
         "player": {
             "id": "204060",
-            "name": "Joe Ingles",
-            "pos": 0
+            "name": "因格尔斯",
+            "pos": 3
         },
         "team": {
             "id": "1610612762",
@@ -4218,8 +4218,8 @@ var _PlayerCHName = {
     "204456": {
         "player": {
             "id": "204456",
-            "name": "TJ McConnell",
-            "pos": 0
+            "name": "迈克康奈尔",
+            "pos": 1
         },
         "team": {
             "id": "1610612755",
@@ -4229,8 +4229,8 @@ var _PlayerCHName = {
     "1626143": {
         "player": {
             "id": "1626143",
-            "name": "Jahlil Okafor",
-            "pos": 0
+            "name": "奥卡福",
+            "pos": 5
         },
         "team": {
             "id": "1610612755",
@@ -4240,8 +4240,8 @@ var _PlayerCHName = {
     "1626144": {
         "player": {
             "id": "1626144",
-            "name": "Emmanuel Mudiay",
-            "pos": 0
+            "name": "穆迪埃",
+            "pos": 1
         },
         "team": {
             "id": "1610612743",
@@ -4251,8 +4251,8 @@ var _PlayerCHName = {
     "1626145": {
         "player": {
             "id": "1626145",
-            "name": "Tyus Jones",
-            "pos": 0
+            "name": "琼斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612750",
@@ -4262,8 +4262,8 @@ var _PlayerCHName = {
     "1626146": {
         "player": {
             "id": "1626146",
-            "name": "Cliff Alexander",
-            "pos": 0
+            "name": "亚历山大",
+            "pos": 4
         },
         "team": {
             "id": "1610612757",
@@ -4273,8 +4273,8 @@ var _PlayerCHName = {
     "1626147": {
         "player": {
             "id": "1626147",
-            "name": "Justin Anderson",
-            "pos": 0
+            "name": "安德森",
+            "pos": 2
         },
         "team": {
             "id": "1610612742",
@@ -4284,8 +4284,8 @@ var _PlayerCHName = {
     "1626148": {
         "player": {
             "id": "1626148",
-            "name": "Anthony Brown",
-            "pos": 0
+            "name": "布朗",
+            "pos": 3
         },
         "team": {
             "id": "1610612747",
@@ -4295,8 +4295,8 @@ var _PlayerCHName = {
     "1626149": {
         "player": {
             "id": "1626149",
-            "name": "Montrezl Harrell",
-            "pos": 0
+            "name": "哈雷尔",
+            "pos": 4
         },
         "team": {
             "id": "1610612745",
@@ -4306,8 +4306,8 @@ var _PlayerCHName = {
     "1626151": {
         "player": {
             "id": "1626151",
-            "name": "Aaron Harrison",
-            "pos": 0
+            "name": "哈里森",
+            "pos": 2
         },
         "team": {
             "id": "1610612766",
@@ -4317,8 +4317,8 @@ var _PlayerCHName = {
     "1626153": {
         "player": {
             "id": "1626153",
-            "name": "Delon Wright",
-            "pos": 0
+            "name": "莱特",
+            "pos": 1
         },
         "team": {
             "id": "1610612761",
@@ -4328,8 +4328,8 @@ var _PlayerCHName = {
     "1626154": {
         "player": {
             "id": "1626154",
-            "name": "RJ Hunter",
-            "pos": 0
+            "name": "亨特",
+            "pos": 2
         },
         "team": {
             "id": "1610612738",
@@ -4339,8 +4339,8 @@ var _PlayerCHName = {
     "1626155": {
         "player": {
             "id": "1626155",
-            "name": "Sam Dekker",
-            "pos": 0
+            "name": "德克尔",
+            "pos": 3
         },
         "team": {
             "id": "1610612745",
@@ -4350,8 +4350,8 @@ var _PlayerCHName = {
     "1626156": {
         "player": {
             "id": "1626156",
-            "name": "D'Angelo Russell",
-            "pos": 0
+            "name": "拉塞尔",
+            "pos": 1
         },
         "team": {
             "id": "1610612747",
@@ -4361,8 +4361,8 @@ var _PlayerCHName = {
     "1626157": {
         "player": {
             "id": "1626157",
-            "name": "Karl-Anthony Towns",
-            "pos": 0
+            "name": "唐斯",
+            "pos": 5
         },
         "team": {
             "id": "1610612750",
@@ -4372,8 +4372,8 @@ var _PlayerCHName = {
     "1626158": {
         "player": {
             "id": "1626158",
-            "name": "Richaun Holmes",
-            "pos": 0
+            "name": "霍尔莫斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612755",
@@ -4383,8 +4383,8 @@ var _PlayerCHName = {
     "1626159": {
         "player": {
             "id": "1626159",
-            "name": "Justise Winslow",
-            "pos": 0
+            "name": "温斯洛",
+            "pos": 3
         },
         "team": {
             "id": "1610612748",
@@ -4394,8 +4394,8 @@ var _PlayerCHName = {
     "1626161": {
         "player": {
             "id": "1626161",
-            "name": "Willie Cauley-Stein",
-            "pos": 0
+            "name": "斯坦",
+            "pos": 5
         },
         "team": {
             "id": "1610612758",
@@ -4405,8 +4405,8 @@ var _PlayerCHName = {
     "1626162": {
         "player": {
             "id": "1626162",
-            "name": "Kelly Oubre",
-            "pos": 0
+            "name": "奥布雷",
+            "pos": 3
         },
         "team": {
             "id": "1610612764",
@@ -4416,8 +4416,8 @@ var _PlayerCHName = {
     "1626163": {
         "player": {
             "id": "1626163",
-            "name": "Frank Kaminsky",
-            "pos": 0
+            "name": "卡明斯基",
+            "pos": 5
         },
         "team": {
             "id": "1610612766",
@@ -4427,8 +4427,8 @@ var _PlayerCHName = {
     "1626164": {
         "player": {
             "id": "1626164",
-            "name": "Devin Booker",
-            "pos": 0
+            "name": "布克",
+            "pos": 2
         },
         "team": {
             "id": "1610612756",
@@ -4438,8 +4438,8 @@ var _PlayerCHName = {
     "1626166": {
         "player": {
             "id": "1626166",
-            "name": "Cameron Payne",
-            "pos": 0
+            "name": "佩恩",
+            "pos": 1
         },
         "team": {
             "id": "1610612760",
@@ -4449,8 +4449,8 @@ var _PlayerCHName = {
     "1626167": {
         "player": {
             "id": "1626167",
-            "name": "Myles Turner",
-            "pos": 0
+            "name": "特纳",
+            "pos": 5
         },
         "team": {
             "id": "1610612754",
@@ -4460,8 +4460,8 @@ var _PlayerCHName = {
     "1626168": {
         "player": {
             "id": "1626168",
-            "name": "Trey Lyles",
-            "pos": 0
+            "name": "莱尔斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612762",
@@ -4471,8 +4471,8 @@ var _PlayerCHName = {
     "1626169": {
         "player": {
             "id": "1626169",
-            "name": "Stanley Johnson",
-            "pos": 0
+            "name": "约翰逊",
+            "pos": 3
         },
         "team": {
             "id": "1610612765",
@@ -4482,8 +4482,8 @@ var _PlayerCHName = {
     "1626170": {
         "player": {
             "id": "1626170",
-            "name": "Jerian Grant",
-            "pos": 0
+            "name": "格兰特",
+            "pos": 1
         },
         "team": {
             "id": "1610612752",
@@ -4493,8 +4493,8 @@ var _PlayerCHName = {
     "1626171": {
         "player": {
             "id": "1626171",
-            "name": "Bobby Portis",
-            "pos": 0
+            "name": "波蒂斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612741",
@@ -4504,8 +4504,8 @@ var _PlayerCHName = {
     "1626173": {
         "player": {
             "id": "1626173",
-            "name": "Rashad Vaughn",
-            "pos": 0
+            "name": "沃恩",
+            "pos": 2
         },
         "team": {
             "id": "1610612749",
@@ -4515,8 +4515,8 @@ var _PlayerCHName = {
     "1626174": {
         "player": {
             "id": "1626174",
-            "name": "Christian Wood",
-            "pos": 0
+            "name": "伍德",
+            "pos": 4
         },
         "team": {
             "id": "1610612755",
@@ -4526,8 +4526,8 @@ var _PlayerCHName = {
     "1626175": {
         "player": {
             "id": "1626175",
-            "name": "Jordan Mickey",
-            "pos": 0
+            "name": "米基",
+            "pos": 4
         },
         "team": {
             "id": "1610612738",
@@ -4537,8 +4537,8 @@ var _PlayerCHName = {
     "1626178": {
         "player": {
             "id": "1626178",
-            "name": "Rondae Hollis-Jefferson",
-            "pos": 0
+            "name": "杰弗森",
+            "pos": 3
         },
         "team": {
             "id": "1610612751",
@@ -4548,8 +4548,8 @@ var _PlayerCHName = {
     "1626179": {
         "player": {
             "id": "1626179",
-            "name": "Terry Rozier",
-            "pos": 0
+            "name": "洛奇尔",
+            "pos": 1
         },
         "team": {
             "id": "1610612738",
@@ -4559,8 +4559,8 @@ var _PlayerCHName = {
     "1626181": {
         "player": {
             "id": "1626181",
-            "name": "Norman Powell",
-            "pos": 0
+            "name": "鲍威尔",
+            "pos": 2
         },
         "team": {
             "id": "1610612761",
@@ -4570,8 +4570,8 @@ var _PlayerCHName = {
     "1626192": {
         "player": {
             "id": "1626192",
-            "name": "Pat Connaughton",
-            "pos": 0
+            "name": "科纳顿",
+            "pos": 2
         },
         "team": {
             "id": "1610612757",
@@ -4581,8 +4581,8 @@ var _PlayerCHName = {
     "1626196": {
         "player": {
             "id": "1626196",
-            "name": "Josh Richardson",
-            "pos": 0
+            "name": "理查德森",
+            "pos": 2
         },
         "team": {
             "id": "1610612748",
@@ -4592,8 +4592,8 @@ var _PlayerCHName = {
     "1626199": {
         "player": {
             "id": "1626199",
-            "name": "Darrun Hilliard",
-            "pos": 0
+            "name": "希拉尔德",
+            "pos": 3
         },
         "team": {
             "id": "1610612765",
@@ -4603,8 +4603,8 @@ var _PlayerCHName = {
     "1626202": {
         "player": {
             "id": "1626202",
-            "name": "Joe Young",
-            "pos": 0
+            "name": "杨",
+            "pos": 1
         },
         "team": {
             "id": "1610612754",
@@ -4614,8 +4614,8 @@ var _PlayerCHName = {
     "1626204": {
         "player": {
             "id": "1626204",
-            "name": "Larry Nance Jr.",
-            "pos": 0
+            "name": "南斯",
+            "pos": 4
         },
         "team": {
             "id": "1610612747",
@@ -4625,8 +4625,8 @@ var _PlayerCHName = {
     "1626209": {
         "player": {
             "id": "1626209",
-            "name": "Mario Hezonja",
-            "pos": 0
+            "name": "赫祖加",
+            "pos": 3
         },
         "team": {
             "id": "1610612753",
@@ -4636,8 +4636,8 @@ var _PlayerCHName = {
     "1626242": {
         "player": {
             "id": "1626242",
-            "name": "Luis Montero",
-            "pos": 0
+            "name": "蒙特罗",
+            "pos": 2
         },
         "team": {
             "id": "1610612757",
@@ -4647,8 +4647,8 @@ var _PlayerCHName = {
     "1626245": {
         "player": {
             "id": "1626245",
-            "name": "Cristiano Felicio",
-            "pos": 0
+            "name": "费里西奥",
+            "pos": 5
         },
         "team": {
             "id": "1610612741",
@@ -4658,8 +4658,8 @@ var _PlayerCHName = {
     "1626246": {
         "player": {
             "id": "1626246",
-            "name": "Boban Marjanovic",
-            "pos": 0
+            "name": "马里扬诺维奇",
+            "pos": 5
         },
         "team": {
             "id": "1610612759",
@@ -4669,8 +4669,8 @@ var _PlayerCHName = {
     "1626257": {
         "player": {
             "id": "1626257",
-            "name": "Salah Mejri",
-            "pos": 0
+            "name": "梅泽里",
+            "pos": 5
         },
         "team": {
             "id": "1610612742",
@@ -4680,8 +4680,8 @@ var _PlayerCHName = {
     "1626273": {
         "player": {
             "id": "1626273",
-            "name": "Marcelo Huertas",
-            "pos": 0
+            "name": "胡尔塔斯",
+            "pos": 1
         },
         "team": {
             "id": "1610612747",
@@ -4711,6 +4711,8 @@ module.exports = {
   NamesCache: NamesCache,
   PlayerCHName: PlayerCHName,
   GetPlayer: GetPlayer,
+
+  _PlayerCHName: _PlayerCHName,
 
   TEAM_STANDING: 'http://stats.nba.com/stats/scoreboard?DayOffset=0&LeagueID=00&gameDate=11%2F30%2F2015',
   TEAM_BASIC: 'http://stats.nba.com/stats/leaguedashteamstats?Conference=&DateFrom=&DateTo=&Division=&GameScope=&GameSegment=&LastNGames=0&LeagueID=00&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=PerGame&Period=0&PlayerExperience=&PlayerPosition=&PlusMinus=N&Rank=N&Season=2015-16&SeasonSegment=&SeasonType=Regular+Season&ShotClockRange=&StarterBench=&TeamID=0&VsConference=&VsDivision=',

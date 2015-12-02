@@ -20,7 +20,7 @@ function downloadInfo1(url) {
         allData: rowSet,
         dataIndex: json.resultSets[0].headers.indexOf('PACE'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '每48分钟回合数，回合越多代表球队节奏越快',
         isPercent: false,
         toFixed: 1,
         sortType: 1              // 按数目倒序
@@ -31,7 +31,7 @@ function downloadInfo1(url) {
         allData: rowSet,
         dataIndex: json.resultSets[0].headers.indexOf('OFF_RATING'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '每100回合得分，比场均得分更能反映球队的进攻水平',
         isPercent: false,
         toFixed: 1,
         sortType: 1              // 按数目倒序
@@ -43,7 +43,7 @@ function downloadInfo1(url) {
         allData: rowSet,
         dataIndex: json.resultSets[0].headers.indexOf('DEF_RATING'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '每100回合失分，比场均失分更能反映球队的防守水平',
         isPercent: false,
         toFixed: 1,
         sortType: 2              // 按数目倒序
@@ -54,7 +54,7 @@ function downloadInfo1(url) {
         allData: rowSet,
         dataIndex: json.resultSets[0].headers.indexOf('EFG_PCT'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '进攻四要素之一，己方三分球算作1.5个进球计算命中率',
         isPercent: true,
         sortType: 1              // 按数目倒序
       }), '球队有效命中率');
@@ -64,7 +64,7 @@ function downloadInfo1(url) {
         allData: rowSet,
         dataIndex: json.resultSets[0].headers.indexOf('TM_TOV_PCT'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '进攻四要素之一，己方进攻以失误结束的比重',
         isPercent: true,
         sortType: 2              // 按数目倒序
       }), '球队失误率');
@@ -75,7 +75,7 @@ function downloadInfo1(url) {
         allData: rowSet,
         dataIndex: json.resultSets[0].headers.indexOf('OREB_PCT'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '进攻四要素之一，己方失球转化为进攻篮板的比重',
         isPercent: true,
         sortType: 1              // 按数目倒序
       }), '球队前板率');
@@ -100,28 +100,27 @@ function downloadInfo2(url) {
         allData: rowSet,
         dataIndex: json.resultSets[0].headers.indexOf('OPP_EFG_PCT'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '防守四要素之一，对方三分球算作1.5个进球计算命中率',
         isPercent: true,
         sortType: 2              // 按数目倒序
       }), '球队防投篮');
 
 
-      // TODO 对手罚球命中数/对手投篮出手术
-      upload('qdffq.json', teamFQGenerator.generateData({
-        allData: rowSet,
-        dataIndex: json.resultSets[0].headers.indexOf('OPP_FTA_RATE'),
-        columnName: '数据',
-        columnSummary: '',
-        isPercent: true,
-        sortType: 2              // 按数目倒序
-      }), '球队防罚球');
+      // upload('qdffq.json', teamFQGenerator.generateData({
+      //   allData: rowSet,
+      //   dataIndex: json.resultSets[0].headers.indexOf('OPP_FTA_RATE'),
+      //   columnName: '数据',
+      //   columnSummary: '防守四要素之一，对方方罚球命中数/投篮出手数',
+      //   isPercent: true,
+      //   sortType: 2              // 按数目倒序
+      // }), '球队防罚球');
 
 
       upload('qdzsw.json', basicDataGenerator.generateData({
         allData: rowSet,
         dataIndex: json.resultSets[0].headers.indexOf('OPP_TOV_PCT'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '防守四要素之一，对方进攻以失误结束的比重',
         isPercent: true,
         sortType: 1              // 按数目倒序
       }), '球队造失误');
@@ -131,7 +130,7 @@ function downloadInfo2(url) {
         showReverse: true,
         dataIndex: json.resultSets[0].headers.indexOf('OPP_OREB_PCT'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '防守四要素之一，对方失球转化为己方防守篮板的比重',
         isPercent: true,
         sortType: 1              // 按数目倒序
       }), '球队后板率');
@@ -154,7 +153,7 @@ function downloadInfo3(url) {
         freeThrowMadeIndex: json.resultSets[0].headers.indexOf('OPP_FTM'),
         fieldGoalMadeIndex: json.resultSets[0].headers.indexOf('OPP_FGA'),
         columnName: '数据',
-        columnSummary: '',
+        columnSummary: '防守四要素之一，对方方罚球命中数/投篮出手数',
         isPercent: true,
         sortType: 2              // 按数目倒序
       }), '球队防罚球');

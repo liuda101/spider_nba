@@ -38,10 +38,11 @@ function generateData(opts) {
         id: '' + opts.allData[i][2],
         name: Configs.NamesCache['' + opts.allData[i][2]]
       },
-      player: {
+      player: Configs.GetPlayer('' + opts.allData[i][0], {
         id: '' + opts.allData[i][0],
-        name: Configs.PlayerCHName(opts.allData[i][0], opts.allData[i][1])
-      },
+        name: Configs.PlayerCHName(opts.allData[i][0], opts.allData[i][1]),
+        pos: 0
+      }),
       data: [
         opts.isSortPercent ? percent(opts.allData[i][opts.sortIndex]) : opts.allData[i][opts.sortIndex].toFixed(1) + '',
         opts.isSecondPercent ? percent(opts.allData[i][opts.secondIndex]) : opts.allData[i][opts.secondIndex] + '',
